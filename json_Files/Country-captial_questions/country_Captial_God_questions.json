@@ -1,0 +1,224 @@
+[
+  {
+    "question": "What is the capital of Nauru?",
+    "options": ["Yaren", "Aiwo", "Denigomodu", "Boe"],
+    "answer": "Yaren",
+    "info": "Nauru has no official capital, but Yaren serves as the de facto administrative center."
+  },
+  {
+    "question": "What is the capital of Tuvalu?",
+    "options": ["Funafuti", "Vaitupu", "Nanumea", "Niutao"],
+    "answer": "Funafuti",
+    "info": "Funafuti is an atoll and serves as the political and economic hub of Tuvalu."
+  },
+  {
+    "question": "What is the capital of Saint Vincent and the Grenadines?",
+    "options": ["Kingstown", "Georgetown", "Barrouallie", "Bequia"],
+    "answer": "Kingstown",
+    "info": "Kingstown is a port city on Saint Vincent island and the seat of government."
+  },
+  {
+    "question": "What is the capital of Palau?",
+    "options": ["Melekeok", "Koror", "Airai", "Ngardmau"],
+    "answer": "Melekeok",
+    "info": "Melekeok is the official capital since 2006, though Koror remains the commercial hub."
+  },
+  {
+    "question": "What is the capital of Marshall Islands?",
+    "options": ["Majuro", "Ebeye", "Arno", "Jaluit"],
+    "answer": "Majuro",
+    "info": "Majuro Atoll serves as both the capital and largest city of the Marshall Islands."
+  },
+  {
+    "question": "What is the capital of São Tomé and Príncipe?",
+    "options": ["São Tomé", "Santo António", "Neves", "Guadalupe"],
+    "answer": "São Tomé",
+    "info": "São Tomé is located on São Tomé Island and is the main political, economic, and cultural center."
+  },
+  {
+    "question": "What is the capital of Bhutan?",
+    "options": ["Thimphu", "Punakha", "Paro", "Phuntsholing"],
+    "answer": "Thimphu",
+    "info": "Thimphu became the capital in 1961, replacing Punakha as the royal and administrative seat."
+  },
+  {
+    "question": "What is the capital of Micronesia (Federated States)?",
+    "options": ["Palikir", "Kolonia", "Weno", "Yap"],
+    "answer": "Palikir",
+    "info": "Palikir is located on Pohnpei island and is the official seat of the federal government."
+  },
+  {
+    "question": "What is the capital of Kiribati?",
+    "options": ["Tarawa", "Betio", "Kiritimati", "Banaba"],
+    "answer": "Tarawa",
+    "info": "South Tarawa serves as the administrative capital of Kiribati and the most populous area."
+  },
+  {
+    "question": "What is the capital of Monaco?",
+    "options": ["Monaco-Ville", "Monte Carlo", "Fontvieille", "La Condamine"],
+    "answer": "Monaco-Ville",
+    "info": "Monaco-Ville is the oldest district and contains the Prince’s Palace, though Monte Carlo is more famous."
+  },
+  {
+    "question": "What is the capital of Liechtenstein?",
+    "options": ["Vaduz", "Schaan", "Balzers", "Triesen"],
+    "answer": "Vaduz",
+    "info": "Vaduz is the political capital, while Schaan is the largest settlement by population."
+  },
+  {
+    "question": "What is the capital of Andorra?",
+    "options": ["Andorra la Vella", "Escaldes-Engordany", "Ordino", "Sant Julià de Lòria"],
+    "answer": "Andorra la Vella",
+    "info": "Andorra la Vella is the highest capital city in Europe by elevation."
+  },
+  {
+    "question": "What is the capital of Comoros?",
+    "options": ["Moroni", "Moutsamudu", "Fomboni", "Iconi"],
+    "answer": "Moroni",
+    "info": "Moroni is the largest city and the political and economic center of Comoros."
+  },
+  {
+    "question": "What is the capital of Djibouti?",
+    "options": ["Djibouti", "Tadjoura", "Ali Sabieh", "Obock"],
+    "answer": "Djibouti",
+    "info": "Djibouti city is both the capital and main port of the country."
+  },
+  {
+    "question": "What is the capital of Eswatini?",
+    "options": ["Mbabane", "Lobamba", "Manzini", "Siteki"],
+    "answer": "Mbabane",
+    "info": "Mbabane is the administrative capital, while Lobamba is the legislative and royal capital."
+  },
+  {
+    "question": "What is the capital of Palau?",
+    "options": ["Melekeok", "Koror", "Airai", "Ngardmau"],
+    "answer": "Melekeok",
+    "info": "Official capital since 2006, while Koror remains the main commercial city."
+  },
+  {
+    "question": "What is the capital of Maldives?",
+    "options": ["Malé", "Fuvahmulah", "Addu City", "Hulhumalé"],
+    "answer": "Malé",
+    "info": "Malé is one of the smallest national capitals by land area but extremely densely populated."
+  },
+  {
+    "question": "What is the capital of Nauru?",
+    "options": ["Yaren", "Boe", "Aiwo", "Denigomodu"],
+    "answer": "Yaren",
+    "info": "Nauru has no official capital, but Yaren houses the parliament and government offices."
+  },
+  {
+    "question": "What is the capital of Bhutan?",
+    "options": ["Thimphu", "Punakha", "Paro", "Wangdue Phodrang"],
+    "answer": "Thimphu",
+    "info": "Thimphu is the royal and political capital of Bhutan."
+  },
+  {
+    "question": "What is the capital of Samoa?",
+    "options": ["Apia", "Salelologa", "Mulifanua", "Asau"],
+    "answer": "Apia",
+    "info": "Apia is located on the island of Upolu and serves as Samoa’s political, economic, and transport hub."
+  },
+  {
+    "question": "What is the capital of Tonga?",
+    "options": ["Nukuʻalofa", "Neiafu", "Haveluloto", "Pangai"],
+    "answer": "Nukuʻalofa",
+    "info": "Nukuʻalofa is the largest city and the administrative center on Tongatapu Island."
+  },
+  {
+    "question": "What is the capital of Tuvalu?",
+    "options": ["Funafuti", "Vaitupu", "Nanumea", "Niutao"],
+    "answer": "Funafuti",
+    "info": "Funafuti is an atoll that serves as the capital and main population center."
+  },
+  {
+    "question": "What is the capital of Antigua and Barbuda?",
+    "options": ["Saint John's", "English Harbour", "Liberta", "Falmouth"],
+    "answer": "Saint John's",
+    "info": "Saint John's is located on the island of Antigua and is the main port and political hub."
+  },
+  {
+    "question": "What is the capital of Grenada?",
+    "options": ["St. George's", "Gouyave", "Grenville", "Sauteurs"],
+    "answer": "St. George's",
+    "info": "St. George’s is a coastal city on Grenada’s southwest coast, famous for its horseshoe-shaped harbor."
+  },
+  {
+    "question": "What is the capital of Belize?",
+    "options": ["Belmopan", "Belize City", "San Ignacio", "Dangriga"],
+    "answer": "Belmopan",
+    "info": "Belmopan became the capital in 1970 after Belize City was damaged by Hurricane Hattie."
+  },
+  {
+    "question": "What is the capital of Saint Kitts and Nevis?",
+    "options": ["Basseterre", "Charlestown", "Sandy Point", "Nevis"],
+    "answer": "Basseterre",
+    "info": "Basseterre is on Saint Kitts and is the oldest town in the Eastern Caribbean, founded in 1627."
+  },
+  {
+    "question": "What is the capital of Seychelles?",
+    "options": ["Victoria", "Beau Vallon", "La Digue", "Praslin"],
+    "answer": "Victoria",
+    "info": "Victoria is the smallest capital in Africa by land area and the main port."
+  },
+  {
+    "question": "What is the capital of Micronesia?",
+    "options": ["Palikir", "Kolonia", "Weno", "Yap"],
+    "answer": "Palikir",
+    "info": "Palikir is on Pohnpei island and became the capital to centralize federal administration."
+  },
+  {
+    "question": "What is the capital of Vanuatu?",
+    "options": ["Port Vila", "Luganville", "Santo", "Tanna"],
+    "answer": "Port Vila",
+    "info": "Port Vila is the largest city and the political and economic capital on Efate Island."
+  },
+  {
+    "question": "What is the capital of Central African Republic?",
+    "options": ["Bangui", "Bimbo", "Berbérati", "Carnot"],
+    "answer": "Bangui",
+    "info": "Bangui is located on the northern bank of the Ubangi River."
+  },
+  {
+    "question": "What is the capital of Guinea-Bissau?",
+    "options": ["Bissau", "Bafatá", "Gabú", "Bolama"],
+    "answer": "Bissau",
+    "info": "Bissau is the largest city and main port of Guinea-Bissau."
+  },
+  {
+    "question": "What is the capital of Dominica?",
+    "options": ["Roseau", "Portsmouth", "Marigot", "Calibishie"],
+    "answer": "Roseau",
+    "info": "Roseau is the largest city on the southwestern coast and serves as the country’s main port."
+  },
+  {
+    "question": "What is the capital of Maldives?",
+    "options": ["Malé", "Fuvahmulah", "Addu City", "Hulhumalé"],
+    "answer": "Malé",
+    "info": "Malé is extremely densely populated and is the center of administration and commerce."
+  },
+  {
+    "question": "What is the capital of Tuvalu?",
+    "options": ["Funafuti", "Vaitupu", "Nanumea", "Niutao"],
+    "answer": "Funafuti",
+    "info": "Funafuti Atoll houses the government offices and main population center."
+  },
+  {
+    "question": "What is the capital of Saint Lucia?",
+    "options": ["Castries", "Soufrière", "Vieux Fort", "Gros Islet"],
+    "answer": "Castries",
+    "info": "Castries is a port city and the political and commercial center of Saint Lucia."
+  },
+  {
+    "question": "What is the capital of Tonga?",
+    "options": ["Nukuʻalofa", "Neiafu", "Haveluloto", "Pangai"],
+    "answer": "Nukuʻalofa",
+    "info": "Nukuʻalofa is on Tongatapu Island and is the administrative hub."
+  },
+  {
+    "question": "What is the capital of Palau?",
+    "options": ["Melekeok", "Koror", "Airai", "Ngardmau"],
+    "answer": "Melekeok",
+    "info": "Melekeok serves as the official capital since 2006."
+  }
+]

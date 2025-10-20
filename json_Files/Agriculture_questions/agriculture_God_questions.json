@@ -1,0 +1,236 @@
+[
+  {
+    "question": "Which gene in rice is responsible for conferring submergence tolerance?",
+    "options": ["Sub1A", "QTL12", "Sh4", "Xa21"],
+    "answer": "Sub1A",
+    "info": "The Sub1A gene helps rice plants survive complete submergence by inducing metabolic dormancy."
+  },
+  {
+    "question": "In CRISPR-Cas9 gene editing, what is the primary role of the guide RNA?",
+    "options": ["Direct Cas9 to target DNA", "Repair broken DNA strands", "Enhance gene expression", "Inhibit transcription"],
+    "answer": "Direct Cas9 to target DNA",
+    "info": "Guide RNA binds specifically to the target DNA sequence, directing the Cas9 enzyme to induce a cut."
+  },
+  {
+    "question": "Which isotopic ratio is often analyzed to assess nitrogen use efficiency in plants?",
+    "options": ["15N/14N", "13C/12C", "18O/16O", "34S/32S"],
+    "answer": "15N/14N",
+    "info": "The 15N/14N isotope ratio provides insight into nitrogen uptake and assimilation efficiency."
+  },
+  {
+    "question": "Which plant hormone primarily governs apical dominance?",
+    "options": ["Auxin", "Cytokinin", "Gibberellin", "Ethylene"],
+    "answer": "Auxin",
+    "info": "Auxin suppresses lateral bud growth, maintaining apical dominance by directing growth upward."
+  },
+  {
+    "question": "Which crop genome was first to be fully sequenced among cereals?",
+    "options": ["Rice", "Wheat", "Maize", "Barley"],
+    "answer": "Rice",
+    "info": "The rice genome was sequenced in 2002, serving as a model for genetic studies in cereals."
+  },
+  {
+    "question": "Which enzyme catalyzes the conversion of phosphoenolpyruvate to oxaloacetate in C4 plants?",
+    "options": ["PEP carboxylase", "Rubisco", "Malate dehydrogenase", "Isocitrate lyase"],
+    "answer": "PEP carboxylase",
+    "info": "PEP carboxylase initiates CO2 fixation in the mesophyll cells of C4 plants with high efficiency."
+  },
+  {
+    "question": "Which mycorrhizal association is common in orchids?",
+    "options": ["Endomycorrhiza", "Ectomycorrhiza", "Ericoid mycorrhiza", "Lichenized mycorrhiza"],
+    "answer": "Endomycorrhiza",
+    "info": "Orchids form symbiotic relationships with endomycorrhizal fungi that help seed germination."
+  },
+  {
+    "question": "Which biochemical pathway synthesizes aromatic amino acids in plants?",
+    "options": ["Shikimate pathway", "Calvin cycle", "TCA cycle", "Glycolysis"],
+    "answer": "Shikimate pathway",
+    "info": "The shikimate pathway produces aromatic amino acids like phenylalanine, tyrosine, and tryptophan."
+  },
+  {
+    "question": "Which element acts as a cofactor for the nitrogenase enzyme complex?",
+    "options": ["Molybdenum", "Magnesium", "Copper", "Zinc"],
+    "answer": "Molybdenum",
+    "info": "Molybdenum is an essential cofactor in nitrogenase, enabling nitrogen fixation in bacteria."
+  },
+  {
+    "question": "Which biotechnological method is used to produce haploid plants?",
+    "options": ["Anther culture", "Micropropagation", "Protoplast fusion", "Grafting"],
+    "answer": "Anther culture",
+    "info": "Anther culture induces haploid plants from microspores, speeding up breeding programs."
+  },
+  {
+    "question": "What is the main principle behind the use of NDVI in remote sensing for agriculture?",
+    "options": ["Difference between reflected near-infrared and red light", "Measurement of soil pH", "Soil moisture estimation", "Detection of pest damage directly"],
+    "answer": "Difference between reflected near-infrared and red light",
+    "info": "NDVI assesses vegetation health by comparing NIR and red light reflectance ratios."
+  },
+  {
+    "question": "In plant breeding, what does 'QTL mapping' identify?",
+    "options": ["Chromosomal regions linked to trait variation", "Protein structures", "Pest resistance enzymes", "Hybrid sterility genes"],
+    "answer": "Chromosomal regions linked to trait variation",
+    "info": "QTL mapping locates genetic loci associated with quantitative traits like yield or disease resistance."
+  },
+  {
+    "question": "Which spectral band is most used for chlorophyll detection in crops?",
+    "options": ["Red edge band", "Blue band", "Thermal infrared band", "Microwave band"],
+    "answer": "Red edge band",
+    "info": "The red edge band between red and NIR wavelengths helps estimate chlorophyll and plant vigor."
+  },
+  {
+    "question": "Which physiological process is inhibited under waterlogging conditions?",
+    "options": ["Root respiration", "Transpiration", "Photosynthesis", "Protein synthesis"],
+    "answer": "Root respiration",
+    "info": "Oxygen deprivation under waterlogged conditions inhibits root respiration, damaging plant roots."
+  },
+  {
+    "question": "Which greenhouse gas is directly emitted from paddy fields due to anaerobic decomposition?",
+    "options": ["Methane", "Nitrous oxide", "Carbon monoxide", "Ozone"],
+    "answer": "Methane",
+    "info": "Methane forms in flooded paddy soils through anaerobic microbial decomposition of organic matter."
+  },
+  {
+    "question": "What is the function of Rubisco activase in photosynthesis?",
+    "options": ["Activates Rubisco enzyme by removing inhibitors", "Fixes carbon directly", "Reduces NADPH", "Stores ATP"],
+    "answer": "Activates Rubisco enzyme by removing inhibitors",
+    "info": "Rubisco activase regulates Rubisco’s activity, ensuring efficient carbon fixation during photosynthesis."
+  },
+  {
+    "question": "What is the main reason for polyploidy induction in crop improvement?",
+    "options": ["Increase genetic variability", "Reduce fertility", "Promote mutation", "Induce chlorosis"],
+    "answer": "Increase genetic variability",
+    "info": "Polyploidy creates multiple chromosome sets, broadening genetic diversity for breeding better traits."
+  },
+  {
+    "question": "Which chloroplast pigment absorbs blue and red light optimally?",
+    "options": ["Chlorophyll a", "Chlorophyll b", "Xanthophyll", "Carotene"],
+    "answer": "Chlorophyll a",
+    "info": "Chlorophyll a is the primary pigment absorbing blue and red light to drive photosynthesis."
+  },
+  {
+    "question": "In carbon fixation, which compound is the first stable product of the Calvin cycle?",
+    "options": ["3-phosphoglycerate", "Glyceraldehyde-3-phosphate", "RuBP", "Pyruvate"],
+    "answer": "3-phosphoglycerate",
+    "info": "The first stable compound formed after CO2 fixation by Rubisco is 3-phosphoglycerate (3-PGA)."
+  },
+  {
+    "question": "Which microbial species fixes nitrogen in non-leguminous symbiosis with Azolla?",
+    "options": ["Anabaena azollae", "Rhizobium japonicum", "Frankia alni", "Azotobacter vinelandii"],
+    "answer": "Anabaena azollae",
+    "info": "Anabaena azollae forms a symbiotic nitrogen-fixing relationship with the aquatic fern Azolla."
+  },
+  {
+    "question": "Which genetic mechanism explains heterosis in F1 hybrids?",
+    "options": ["Dominance hypothesis", "Epistasis", "Codominance", "Recombination suppression"],
+    "answer": "Dominance hypothesis",
+    "info": "The dominance hypothesis attributes heterosis to masking of deleterious recessive alleles by dominant ones."
+  },
+  {
+    "question": "What is the optimal carbon to nitrogen (C:N) ratio for composting organic waste?",
+    "options": ["25:1 to 30:1", "10:1", "40:1", "60:1"],
+    "answer": "25:1 to 30:1",
+    "info": "A C:N ratio of 25–30:1 ensures balanced microbial activity for efficient composting."
+  },
+  {
+    "question": "Which biotechnological tool is used to identify point mutations in crop DNA?",
+    "options": ["SNP markers", "RAPD", "ISSR", "AFLP"],
+    "answer": "SNP markers",
+    "info": "Single Nucleotide Polymorphism (SNP) markers detect variations at single base-pair sites in DNA."
+  },
+  {
+    "question": "Which chloroplast structure is directly involved in ATP synthesis?",
+    "options": ["Thylakoid membrane", "Stroma", "Grana lumen", "Envelope"],
+    "answer": "Thylakoid membrane",
+    "info": "ATP is synthesized by ATP synthase embedded in the thylakoid membrane of chloroplasts."
+  },
+  {
+    "question": "Which cereal crop is typically cultivated under aerobic conditions?",
+    "options": ["Maize", "Rice", "Sorghum", "Barley"],
+    "answer": "Maize",
+    "info": "Maize requires well-aerated soil and is adversely affected by waterlogging."
+  },
+  {
+    "question": "Which molecular marker technique relies on restriction enzymes and gel electrophoresis?",
+    "options": ["RFLP", "AFLP", "SSR", "RAPD"],
+    "answer": "RFLP",
+    "info": "Restriction Fragment Length Polymorphism (RFLP) distinguishes DNA segments based on enzyme cut sites."
+  },
+  {
+    "question": "Which mineral deficiency causes tip-burn in lettuce?",
+    "options": ["Calcium", "Magnesium", "Potassium", "Iron"],
+    "answer": "Calcium",
+    "info": "Calcium deficiency leads to necrosis at leaf tips, a condition known as tip-burn in lettuce."
+  },
+  {
+    "question": "Which gas functions as a plant hormone regulating fruit ripening?",
+    "options": ["Ethylene", "Carbon dioxide", "Methane", "Nitrous oxide"],
+    "answer": "Ethylene",
+    "info": "Ethylene gas promotes fruit ripening, flower senescence, and leaf abscission."
+  },
+  {
+    "question": "Which genetic engineering approach introduced Bt toxin genes into crops?",
+    "options": ["Transgenesis", "Somaclonal variation", "Mutagenesis", "Backcrossing"],
+    "answer": "Transgenesis",
+    "info": "Bt crops are created via transgenesis by inserting Bacillus thuringiensis toxin genes for pest resistance."
+  },
+  {
+    "question": "Which carbon fixation pathway is prominent in succulent plants like cactus?",
+    "options": ["CAM pathway", "C4 pathway", "Calvin cycle", "TCA cycle"],
+    "answer": "CAM pathway",
+    "info": "CAM plants fix CO2 at night, reducing water loss in arid conditions."
+  },
+  {
+    "question": "In precision agriculture, which sensor technology assesses canopy temperature for stress detection?",
+    "options": ["Thermal imaging sensors", "LIDAR", "Ultrasonic sensors", "Spectrophotometric sensors"],
+    "answer": "Thermal imaging sensors",
+    "info": "Thermal sensors detect crop water stress by measuring canopy temperature variations."
+  },
+  {
+    "question": "Which soil order is characterized by volcanic ash and high organic matter?",
+    "options": ["Andisols", "Vertisols", "Oxisols", "Aridisols"],
+    "answer": "Andisols",
+    "info": "Andisols develop from volcanic ash and are rich in amorphous minerals and humus."
+  },
+  {
+    "question": "Which gene editing tool allows base-specific changes without double-strand breaks?",
+    "options": ["Base editors", "TALENs", "ZFNs", "CRISPR-Cas9"],
+    "answer": "Base editors",
+    "info": "Base editors modify single nucleotides precisely without creating DNA double-strand breaks."
+  },
+  {
+    "question": "Which type of respiration occurs in waterlogged soil roots?",
+    "options": ["Anaerobic respiration", "Photorespiration", "Aerobic respiration", "Facultative respiration"],
+    "answer": "Anaerobic respiration",
+    "info": "Lack of oxygen in waterlogged soil forces roots to switch to anaerobic respiration."
+  },
+  {
+    "question": "What is the primary mechanism by which cover crops reduce nitrate leaching?",
+    "options": ["Nitrogen uptake and immobilization", "Soil compaction", "Reduced evapotranspiration", "Enhanced acidity"],
+    "answer": "Nitrogen uptake and immobilization",
+    "info": "Cover crops absorb residual soil nitrogen, preventing nitrate leaching into groundwater."
+  },
+  {
+    "question": "Which biochemical compound causes allelopathic inhibition among plants?",
+    "options": ["Phenolics", "Proteins", "Lipids", "Starches"],
+    "answer": "Phenolics",
+    "info": "Phenolic compounds released by some plants inhibit germination and growth of nearby species."
+  },
+  {
+    "question": "What is the most efficient light wavelength for photosynthetic carbon fixation?",
+    "options": ["Red (680 nm)", "Green (550 nm)", "Blue (450 nm)", "Infrared (800 nm)"],
+    "answer": "Red (680 nm)",
+    "info": "Light at 680 nm is absorbed by Photosystem II and drives photochemical reactions efficiently."
+  },
+  {
+    "question": "Which process primarily limits photosynthesis under high O2 conditions?",
+    "options": ["Photorespiration", "Transpiration", "Stomatal closure", "Photoinhibition"],
+    "answer": "Photorespiration",
+    "info": "High oxygen concentrations enhance photorespiration, reducing net photosynthetic efficiency."
+  },
+  {
+    "question": "Which global model predicts agroclimatic shifts due to rising CO2 and temperature?",
+    "options": ["DSSAT", "SWAT", "AquaCrop", "CERES"],
+    "answer": "DSSAT",
+    "info": "DSSAT (Decision Support System for Agrotechnology Transfer) simulates crop growth under climate change predictions."
+  }
+]

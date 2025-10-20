@@ -1,0 +1,242 @@
+[
+  {
+    "question": "What color does a traffic light show when vehicles must stop?",
+    "options": ["Red", "Green", "Yellow", "Blue"],
+    "answer": "Red",
+    "info": "A red traffic light means vehicles must stop before the stop line or pedestrian crossing."
+  },
+  {
+    "question": "What does a green light indicate at an intersection?",
+    "options": ["Go", "Stop", "Slow down", "Prepare to stop"],
+    "answer": "Go",
+    "info": "A green light means vehicles may move through the intersection with caution."
+  },
+  {
+    "question": "What should you do when the signal light turns yellow?",
+    "options": ["Prepare to stop", "Speed up", "Turn left", "Ignore it"],
+    "answer": "Prepare to stop",
+    "info": "A yellow light warns that the signal is about to turn red and drivers should stop safely."
+  },
+  {
+    "question": "On which side of the road should vehicles be driven in India?",
+    "options": ["Left", "Right", "Any side", "Center"],
+    "answer": "Left",
+    "info": "In India, vehicles must always be driven on the left-hand side of the road."
+  },
+  {
+    "question": "What does a 'No Parking' sign mean?",
+    "options": ["You cannot stop here for long", "You can park here anytime", "You may sleep in the car", "Parking allowed only for trucks"],
+    "answer": "You cannot stop here for long",
+    "info": "‘No Parking’ means vehicles can stop briefly to pick or drop someone but cannot park."
+  },
+  {
+    "question": "What should you wear when riding a two-wheeler?",
+    "options": ["Helmet", "Cap", "Hat", "Scarf"],
+    "answer": "Helmet",
+    "info": "Wearing a helmet protects your head and is mandatory while riding a two-wheeler."
+  },
+  {
+    "question": "What does a zebra crossing indicate?",
+    "options": ["Pedestrian crossing", "Parking area", "Bus stop", "Speed break zone"],
+    "answer": "Pedestrian crossing",
+    "info": "Zebra crossings are marked for pedestrians to cross the road safely."
+  },
+  {
+    "question": "Which lane should slow vehicles drive in?",
+    "options": ["Left lane", "Middle lane", "Right lane", "Any lane"],
+    "answer": "Left lane",
+    "info": "Slow-moving vehicles must keep to the left lane to allow faster traffic to overtake safely."
+  },
+  {
+    "question": "What does a horn in front of a school zone mean?",
+    "options": ["Avoid honking", "Honk continuously", "Speed up", "Stop and wait"],
+    "answer": "Avoid honking",
+    "info": "Drivers should avoid honking in school zones to prevent noise disturbance to children."
+  },
+  {
+    "question": "When driving, what should you do before turning?",
+    "options": ["Use turn signals", "Speed up", "Honking loudly", "Stop engine"],
+    "answer": "Use turn signals",
+    "info": "Turn indicators must be used to show your intention to turn left or right."
+  },
+  {
+    "question": "What should you do if an ambulance is behind you?",
+    "options": ["Move aside to give way", "Block the road", "Race with it", "Stop suddenly"],
+    "answer": "Move aside to give way",
+    "info": "It is mandatory to give way to emergency vehicles like ambulances or fire trucks."
+  },
+  {
+    "question": "When should you blow the horn?",
+    "options": ["To avoid accidents", "At every turn", "In silent zones", "While waiting in traffic"],
+    "answer": "To avoid accidents",
+    "info": "Horns should be used only to alert others when necessary for safety."
+  },
+  {
+    "question": "What does a blue circular road sign usually indicate?",
+    "options": ["Mandatory instruction", "Warning ahead", "Prohibition", "Speed limit"],
+    "answer": "Mandatory instruction",
+    "info": "Blue circular signs indicate actions drivers must take, like ‘turn left only’."
+  },
+  {
+    "question": "What shape is a stop sign?",
+    "options": ["Octagon", "Triangle", "Circle", "Square"],
+    "answer": "Octagon",
+    "info": "Stop signs are octagonal and red, signaling drivers to halt completely."
+  },
+  {
+    "question": "What should a driver check before starting a vehicle?",
+    "options": ["Mirrors and seatbelt", "Radio", "AC temperature", "Cup holder"],
+    "answer": "Mirrors and seatbelt",
+    "info": "Drivers must ensure mirrors are adjusted and seatbelt fastened before driving."
+  },
+  {
+    "question": "What is the speed limit in most city areas?",
+    "options": ["About 40 km/h", "About 80 km/h", "About 100 km/h", "No limit"],
+    "answer": "About 40 km/h",
+    "info": "City speed limits are usually around 40 km/h to ensure pedestrian safety."
+  },
+  {
+    "question": "What does a red circle with a line through mean?",
+    "options": ["Prohibition", "Information", "Direction", "Guidance"],
+    "answer": "Prohibition",
+    "info": "Red circular signs with a line through indicate something is not allowed."
+  },
+  {
+    "question": "What is the purpose of a rearview mirror?",
+    "options": ["See vehicles behind", "Check speed", "Look at yourself", "Signal others"],
+    "answer": "See vehicles behind",
+    "info": "Rearview mirrors help monitor traffic behind you for safe lane changes and braking."
+  },
+  {
+    "question": "What must a driver do at a railway crossing when the gate is closed?",
+    "options": ["Wait until the gate opens", "Go around the gate", "Honk and proceed", "Reverse the car"],
+    "answer": "Wait until the gate opens",
+    "info": "Always stop and wait at a closed railway crossing until the gate is opened."
+  },
+  {
+    "question": "When can you overtake another vehicle?",
+    "options": ["When the road ahead is clear", "On a blind curve", "Near a school", "At pedestrian crossings"],
+    "answer": "When the road ahead is clear",
+    "info": "You can overtake only when it is safe and no oncoming vehicle is near."
+  },
+  {
+    "question": "What does a red triangle road sign indicate?",
+    "options": ["Warning", "Stop", "Compulsory", "Speed limit"],
+    "answer": "Warning",
+    "info": "Triangular signs warn drivers about possible dangers or road conditions ahead."
+  },
+  {
+    "question": "What should a driver do before crossing a pedestrian crossing?",
+    "options": ["Slow down and look both sides", "Speed up", "Honk loudly", "Ignore pedestrians"],
+    "answer": "Slow down and look both sides",
+    "info": "Slowing down and checking for pedestrians ensures safe crossing."
+  },
+  {
+    "question": "What is the minimum age to get a driving license for a car in India?",
+    "options": ["18 years", "16 years", "21 years", "25 years"],
+    "answer": "18 years",
+    "info": "You must be at least 18 years old to apply for a license to drive a car."
+  },
+  {
+    "question": "What does a broken white line on the road mean?",
+    "options": ["You may change lanes carefully", "No overtaking", "Stop line", "End of road"],
+    "answer": "You may change lanes carefully",
+    "info": "A dashed white line means lane changing is allowed when safe."
+  },
+  {
+    "question": "What must children wear while on a two-wheeler?",
+    "options": ["Helmet", "Cap", "No protection needed", "Reflective vest"],
+    "answer": "Helmet",
+    "info": "Children must wear helmets for their safety while riding on two-wheelers."
+  },
+  {
+    "question": "Which emergency number can you call for road accidents in India?",
+    "options": ["112", "102", "108", "100"],
+    "answer": "112",
+    "info": "112 is India’s universal emergency helpline for police, ambulance, and fire services."
+  },
+  {
+    "question": "What should you do if your vehicle breaks down on the highway?",
+    "options": ["Switch on hazard lights", "Leave it in the middle", "Ignore it", "Turn off all lights"],
+    "answer": "Switch on hazard lights",
+    "info": "Hazard lights alert other drivers of a stationary or broken-down vehicle."
+  },
+  {
+    "question": "When should you use a seatbelt?",
+    "options": ["Always when driving", "Only at night", "Only on highways", "Never needed inside city"],
+    "answer": "Always when driving",
+    "info": "Seatbelts reduce injury risk in case of sudden stops or collisions."
+  },
+  {
+    "question": "What should you do if you see a red flashing signal?",
+    "options": ["Stop and proceed after checking", "Drive faster", "Ignore it", "Turn left"],
+    "answer": "Stop and proceed after checking",
+    "info": "A flashing red signal means stop completely and move only when safe."
+  },
+  {
+    "question": "When is overtaking prohibited?",
+    "options": ["At curves and pedestrian crossings", "On straight roads", "When signal is green", "On an empty highway"],
+    "answer": "At curves and pedestrian crossings",
+    "info": "Overtaking on curves or near crossings is risky and prohibited for safety."
+  },
+  {
+    "question": "What does the symbol 'P' with a red cross mean?",
+    "options": ["No parking", "Priority road", "Pedestrian allowed", "Parking permitted"],
+    "answer": "No parking",
+    "info": "A 'P' with a cross indicates that parking is not allowed in that area."
+  },
+  {
+    "question": "What is the purpose of traffic signals?",
+    "options": ["Control vehicle movement", "Decorate roads", "Distract drivers", "Increase speed"],
+    "answer": "Control vehicle movement",
+    "info": "Traffic signals ensure orderly flow of vehicles and pedestrians at intersections."
+  },
+  {
+    "question": "What should a driver use at night to see better?",
+    "options": ["Headlights", "Indicators", "Horn", "Wipers"],
+    "answer": "Headlights",
+    "info": "Headlights help you see the road clearly and make your vehicle visible at night."
+  },
+  {
+    "question": "What does a flashing amber/yellow light mean?",
+    "options": ["Proceed with caution", "Stop immediately", "Speed up", "Turn left only"],
+    "answer": "Proceed with caution",
+    "info": "Flashing amber light means drivers must proceed slowly and carefully."
+  },
+  {
+    "question": "Which vehicle has the right of way at an uncontrolled intersection?",
+    "options": ["Vehicle on the right", "Vehicle on the left", "Bigger vehicle", "Faster vehicle"],
+    "answer": "Vehicle on the right",
+    "info": "At uncontrolled intersections, the vehicle on your right has the right of way."
+  },
+  {
+    "question": "When driving in fog, what lights should you use?",
+    "options": ["Fog lights", "High beams", "No lights", "Only hazard lights"],
+    "answer": "Fog lights",
+    "info": "Fog lights help improve road visibility in foggy conditions."
+  },
+  {
+    "question": "What is the main reason for accidents at intersections?",
+    "options": ["Failure to obey traffic signals", "Excessive honking", "Slow driving", "Clean roads"],
+    "answer": "Failure to obey traffic signals",
+    "info": "Disobeying signals causes confusion and crashes at intersections."
+  },
+  {
+    "question": "What should you do when pedestrians are crossing at a walkway?",
+    "options": ["Stop and wait", "Honk to warn them", "Speed up", "Drive carefully beside them"],
+    "answer": "Stop and wait",
+    "info": "Drivers must always stop and let pedestrians cross safely at marked crossings."
+  },
+  {
+    "question": "What color are warning road signs usually?",
+    "options": ["Yellow with black symbols", "Red and white", "Blue", "Green"],
+    "answer": "Yellow with black symbols",
+    "info": "Warning signs are normally yellow with black icons to alert drivers about potential hazards."
+  },
+  {
+    "question": "What does double solid yellow lines in the center of the road mean?",
+    "options": ["No overtaking", "Free overtaking", "Parking allowed", "Go faster"],
+    "answer": "No overtaking",
+    "info": "Double solid yellow lines indicate that no overtaking is permitted from either side."
+  }
+]

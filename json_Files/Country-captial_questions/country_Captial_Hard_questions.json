@@ -1,0 +1,212 @@
+[
+  {
+    "question": "What is the capital of Bhutan?",
+    "options": ["Thimphu", "Paro", "Punakha", "Phuntsholing"],
+    "answer": "Thimphu",
+    "info": "Thimphu became the capital of Bhutan in 1961, replacing Punakha."
+  },
+  {
+    "question": "What is the capital of Eswatini?",
+    "options": ["Mbabane", "Lobamba", "Manzini", "Siteki"],
+    "answer": "Mbabane",
+    "info": "Mbabane is the administrative capital, while Lobamba is the legislative and royal capital."
+  },
+  {
+    "question": "What is the capital of Vanuatu?",
+    "options": ["Port Vila", "Luganville", "Santo", "Tanna"],
+    "answer": "Port Vila",
+    "info": "Port Vila is located on the island of Efate and is the economic and political center of Vanuatu."
+  },
+  {
+    "question": "What is the capital of Palau?",
+    "options": ["Koror", "Melekeok", "Ngardmau", "Airai"],
+    "answer": "Melekeok",
+    "info": "Melekeok became the official capital in 2006, though Koror remains the commercial center."
+  },
+  {
+    "question": "What is the capital of Maldives?",
+    "options": ["Malé", "Fuvahmulah", "Addu City", "Hulhumalé"],
+    "answer": "Malé",
+    "info": "Malé is one of the smallest national capitals by land area but densely populated."
+  },
+  {
+    "question": "What is the capital of Kyrgyzstan?",
+    "options": ["Bishkek", "Osh", "Karakol", "Jalal-Abad"],
+    "answer": "Bishkek",
+    "info": "Bishkek became the capital in 1926 and is located in the northern part of the country near the border with Kazakhstan."
+  },
+  {
+    "question": "What is the capital of Suriname?",
+    "options": ["Paramaribo", "Lelydorp", "Nieuw Nickerie", "Albina"],
+    "answer": "Paramaribo",
+    "info": "Paramaribo is located on the banks of the Suriname River and is the country’s largest city."
+  },
+  {
+    "question": "What is the capital of Liechtenstein?",
+    "options": ["Vaduz", "Schaan", "Balzers", "Triesen"],
+    "answer": "Vaduz",
+    "info": "Vaduz is the political center, though Schaan is the largest municipality in population."
+  },
+  {
+    "question": "What is the capital of Belize?",
+    "options": ["Belmopan", "Belize City", "San Ignacio", "Dangriga"],
+    "answer": "Belmopan",
+    "info": "Belmopan became the capital in 1970 after Belize City was heavily damaged by a hurricane."
+  },
+  {
+    "question": "What is the capital of Brunei?",
+    "options": ["Bandar Seri Begawan", "Kuala Belait", "Tutong", "Seria"],
+    "answer": "Bandar Seri Begawan",
+    "info": "The city is named after Sultan Omar Ali Saifuddien III and is the seat of the Brunei monarchy."
+  },
+  {
+    "question": "What is the capital of Timor-Leste?",
+    "options": ["Dili", "Baucau", "Maliana", "Suai"],
+    "answer": "Dili",
+    "info": "Dili is the largest city of East Timor and its primary port."
+  },
+  {
+    "question": "What is the capital of Seychelles?",
+    "options": ["Victoria", "Beau Vallon", "Anse Royale", "La Digue"],
+    "answer": "Victoria",
+    "info": "Victoria is located on the northeast coast of Mahé Island and is the smallest African capital by land area."
+  },
+  {
+    "question": "What is the capital of Papua New Guinea?",
+    "options": ["Port Moresby", "Lae", "Mount Hagen", "Madang"],
+    "answer": "Port Moresby",
+    "info": "Port Moresby is located on the southeastern coast of Papua New Guinea and is the political and economic hub."
+  },
+  {
+    "question": "What is the capital of Andorra?",
+    "options": ["Andorra la Vella", "Escaldes-Engordany", "Ordino", "Sant Julià de Lòria"],
+    "answer": "Andorra la Vella",
+    "info": "Andorra la Vella is the highest capital city in Europe by elevation."
+  },
+  {
+    "question": "What is the capital of Montenegro?",
+    "options": ["Podgorica", "Cetinje", "Herceg Novi", "Kotor"],
+    "answer": "Podgorica",
+    "info": "Podgorica became the capital in 1946, replacing the historic royal capital of Cetinje."
+  },
+  {
+    "question": "What is the capital of Malta?",
+    "options": ["Valletta", "Mdina", "Sliema", "Birkirkara"],
+    "answer": "Valletta",
+    "info": "Valletta is a UNESCO World Heritage city, known for its Baroque architecture and harbor."
+  },
+  {
+    "question": "What is the capital of Kazakhstan?",
+    "options": ["Astana", "Almaty", "Shymkent", "Karaganda"],
+    "answer": "Astana",
+    "info": "Astana (renamed Nur-Sultan from 2019 to 2022) is the political center, while Almaty remains the largest city."
+  },
+  {
+    "question": "What is the capital of Burkina Faso?",
+    "options": ["Ouagadougou", "Bobo-Dioulasso", "Koudougou", "Banfora"],
+    "answer": "Ouagadougou",
+    "info": "Ouagadougou is the cultural and administrative center of Burkina Faso, often called 'Ouaga' for short."
+  },
+  {
+    "question": "What is the capital of Malawi?",
+    "options": ["Lilongwe", "Blantyre", "Mzuzu", "Zomba"],
+    "answer": "Lilongwe",
+    "info": "Lilongwe became the capital in 1975, replacing Zomba due to its central location."
+  },
+  {
+    "question": "What is the capital of Togo?",
+    "options": ["Lomé", "Sokodé", "Kara", "Dapaong"],
+    "answer": "Lomé",
+    "info": "Lomé is located on the Gulf of Guinea and is the main port city of Togo."
+  },
+  {
+    "question": "What is the capital of Mongolia?",
+    "options": ["Ulaanbaatar", "Erdenet", "Darkhan", "Choibalsan"],
+    "answer": "Ulaanbaatar",
+    "info": "Ulaanbaatar is the coldest capital city in the world and the cultural heart of Mongolia."
+  },
+  {
+    "question": "What is the capital of Nicaragua?",
+    "options": ["Managua", "Granada", "León", "Masaya"],
+    "answer": "Managua",
+    "info": "Managua was made the capital in 1852 due to its central location after earthquakes damaged previous capitals."
+  },
+  {
+    "question": "What is the capital of Equatorial Guinea?",
+    "options": ["Malabo", "Bata", "Luba", "Mongomo"],
+    "answer": "Malabo",
+    "info": "Malabo is located on Bioko Island and is the oldest capital city in Central Africa."
+  },
+  {
+    "question": "What is the capital of Dominica?",
+    "options": ["Roseau", "Portsmouth", "Marigot", "Calibishie"],
+    "answer": "Roseau",
+    "info": "Roseau is the largest city and port, located on the southwestern coast of Dominica."
+  },
+  {
+    "question": "What is the capital of Saint Kitts and Nevis?",
+    "options": ["Basseterre", "Charlestown", "Sandy Point", "Nevis"],
+    "answer": "Basseterre",
+    "info": "Basseterre is one of the oldest towns in the Eastern Caribbean, founded in 1627."
+  },
+  {
+    "question": "What is the capital of Seychelles?",
+    "options": ["Victoria", "Beau Vallon", "Praslin", "Anse Royale"],
+    "answer": "Victoria",
+    "info": "Victoria is one of the smallest capitals in the world by land area and is located on Mahé island."
+  },
+  {
+    "question": "What is the capital of Central African Republic?",
+    "options": ["Bangui", "Bimbo", "Berbérati", "Carnot"],
+    "answer": "Bangui",
+    "info": "Bangui is located on the northern bank of the Ubangi River, bordering the Democratic Republic of Congo."
+  },
+  {
+    "question": "What is the capital of Saint Lucia?",
+    "options": ["Castries", "Soufrière", "Vieux Fort", "Gros Islet"],
+    "answer": "Castries",
+    "info": "Castries is a port city and serves as the administrative and commercial center of Saint Lucia."
+  },
+  {
+    "question": "What is the capital of Comoros?",
+    "options": ["Moroni", "Mutsamudu", "Fomboni", "Iconi"],
+    "answer": "Moroni",
+    "info": "Moroni is located on the western coast of Grande Comore Island and is the largest city in Comoros."
+  },
+  {
+    "question": "What is the capital of Seychelles?",
+    "options": ["Victoria", "La Digue", "Beau Vallon", "Praslin"],
+    "answer": "Victoria",
+    "info": "Victoria is located on the northeast coast of Mahé and is a major port and commercial hub."
+  },
+  {
+    "question": "What is the capital of Kiribati?",
+    "options": ["Tarawa", "Kiritimati", "Banaba", "Tabiteuea"],
+    "answer": "Tarawa",
+    "info": "Tarawa Atoll hosts the capital of Kiribati and is known for its World War II history."
+  },
+  {
+    "question": "What is the capital of Lesotho?",
+    "options": ["Maseru", "Teyateyaneng", "Butha-Buthe", "Mafeteng"],
+    "answer": "Maseru",
+    "info": "Maseru is located on the northwestern border with South Africa and serves as the country’s political and economic center."
+  },
+  {
+    "question": "What is the capital of Palau?",
+    "options": ["Melekeok", "Koror", "Airai", "Ngardmau"],
+    "answer": "Melekeok",
+    "info": "Melekeok became the official capital in 2006, although Koror remains the commercial hub."
+  },
+  {
+    "question": "What is the capital of Tonga?",
+    "options": ["Nukuʻalofa", "Neiafu", "Haveluloto", "Pangai"],
+    "answer": "Nukuʻalofa",
+    "info": "Nukuʻalofa is located on the northern coast of Tongatapu Island and is the largest urban center in Tonga."
+  },
+  {
+    "question": "What is the capital of Vanuatu?",
+    "options": ["Port Vila", "Luganville", "Santo", "Tanna"],
+    "answer": "Port Vila",
+    "info": "Port Vila is the political, economic, and commercial capital, situated on Efate Island."
+  }
+]

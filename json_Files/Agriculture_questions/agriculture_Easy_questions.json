@@ -1,0 +1,242 @@
+[
+  {
+    "question": "What is the name for the process of supplying water to crops?",
+    "options": ["Irrigation", "Fertilization", "Pollination", "Harvesting"],
+    "answer": "Irrigation",
+    "info": "Irrigation is the artificial application of water to land or soil to help grow crops."
+  },
+  {
+    "question": "Which of these is a machine used to pull plows and other farm tools?",
+    "options": ["Tractor", "Combine", "Sprinkler", "Silo"],
+    "answer": "Tractor",
+    "info": "A tractor is a powerful motor vehicle with large rear wheels, used on farms for hauling equipment and trailers."
+  },
+  {
+    "question": "What do you call a farm that primarily raises cattle for milk?",
+    "options": ["Dairy farm", "Poultry farm", "Arable farm", "Fish farm"],
+    "answer": "Dairy farm",
+    "info": "A dairy farm is a class of agriculture for long-term production of milk, which is processed for eventual sale of a dairy product."
+  },
+  {
+    "question": "Which of these is a grain crop?",
+    "options": ["Wheat", "Apples", "Carrots", "Lettuce"],
+    "answer": "Wheat",
+    "info": "Wheat is a cereal grain, which is a type of grass cultivated for its edible starchy seed."
+  },
+  {
+    "question": "What is the name for the practice of growing different crops in the same field in sequential seasons?",
+    "options": ["Crop Rotation", "Monoculture", "Hydroponics", "Pesticide"],
+    "answer": "Crop Rotation",
+    "info": "Crop rotation helps to manage soil fertility and also helps to control weeds, diseases, and pests."
+  },
+  {
+    "question": "What is a young chicken called?",
+    "options": ["Chick", "Calf", "Piglet", "Lamb"],
+    "answer": "Chick",
+    "info": "A chick is a baby bird, especially a young chicken. A calf is a young cow, a piglet is a young pig, and a lamb is a young sheep."
+  },
+  {
+    "question": "What do we call the material, mostly from animal manure or compost, spread on land to increase fertility?",
+    "options": ["Fertilizer", "Pesticide", "Herbicide", "Soil"],
+    "answer": "Fertilizer",
+    "info": "Fertilizers provide nutrients like nitrogen, phosphorus, and potassium to help plants grow."
+  },
+  {
+    "question": "What is the process of gathering a ripe crop from the fields?",
+    "options": ["Harvesting", "Planting", "Weeding", "Plowing"],
+    "answer": "Harvesting",
+    "info": "Harvesting is the end of the growing season, when crops like corn, wheat, or vegetables are collected."
+  },
+  {
+    "question": "Which of these animals is raised for its wool?",
+    "options": ["Sheep", "Pig", "Chicken", "Cow"],
+    "answer": "Sheep",
+    "info": "Sheep are domestic animals raised for their fleece (wool), milk, and meat (lamb or mutton)."
+  },
+  {
+    "question": "What is the name for a substance used to destroy insects or other organisms harmful to crops?",
+    "options": ["Pesticide", "Fertilizer", "Irrigation", "Compost"],
+    "answer": "Pesticide",
+    "info": "Pesticides are used to control pests, including insects, weeds, fungi, and rodents."
+  },
+  {
+    "question": "What is the top layer of the Earth's surface, in which plants grow?",
+    "options": ["Soil", "Rock", "Water", "Sand"],
+    "answer": "Soil",
+    "info": "Soil is a mixture of organic matter, minerals, gases, liquids, and organisms that together support plant life."
+  },
+  {
+    "question": "Which of these is a root vegetable?",
+    "options": ["Carrot", "Broccoli", "Corn", "Apple"],
+    "answer": "Carrot",
+    "info": "A root vegetable is a plant root eaten as a vegetable. Others include potatoes, beets, and radishes."
+  },
+  {
+    "question": "What is a 'silo' used for on a farm?",
+    "options": ["Storing grain or fodder", "Housing animals", "Pumping water", "Processing milk"],
+    "answer": "Storing grain or fodder",
+    "info": "A silo is a tall tower or pit on a farm used to store bulk materials, most commonly silage (fermented fodder) or grain."
+  },
+  {
+    "question": "What is the farming of fish, crustaceans, mollusks, and aquatic plants called?",
+    "options": ["Aquaculture", "Horticulture", "Apiculture", "Viticulture"],
+    "answer": "Aquaculture",
+    "info": "Aquaculture, or 'fish farming,' involves cultivating freshwater and saltwater populations under controlled conditions."
+  },
+  {
+    "question": "Which farm animal produces eggs?",
+    "options": ["Chicken", "Cow", "Sheep", "Goat"],
+    "answer": "Chicken",
+    "info": "Chickens are the most common type of poultry and are raised for both their eggs and their meat."
+  },
+  {
+    "question": "What is the process of 'plowing'?",
+    "options": ["Turning over the soil to prepare for planting", "Watering the crops", "Harvesting the grain", "Spraying for pests"],
+    "answer": "Turning over the soil to prepare for planting",
+    "info": "Plowing breaks up the soil and brings fresh nutrients to the surface while burying weeds and the remains of previous crops."
+  },
+  {
+    "question": "What is the main purpose of a 'greenhouse'?",
+    "options": ["To grow plants in a controlled environment", "To store farm machinery", "To house dairy cattle", "To grind wheat into flour"],
+    "answer": "To grow plants in a controlled environment",
+    "info": "Greenhouses are structures with glass or plastic walls that trap heat from the sun, allowing plants to be grown in regulated climatic conditions."
+  },
+  {
+    "question": "What is 'organic' farming?",
+    "options": ["Farming without synthetic fertilizers or pesticides", "Farming using computers", "Farming indoors", "Farming only with tractors"],
+    "answer": "Farming without synthetic fertilizers or pesticides",
+    "info": "Organic farming relies on natural fertilizers like compost and uses techniques like crop rotation to manage pests and maintain soil health."
+  },
+  {
+    "question": "What is a 'combine harvester' used for?",
+    "options": ["Harvesting grain crops like wheat or corn", "Planting seeds", "Watering large fields", "Milking cows"],
+    "answer": "Harvesting grain crops like wheat or corn",
+    "info": "A combine is a complex machine that 'combines' three harvesting operations—reaping, threshing, and winnowing—into a single process."
+  },
+  {
+    "question": "What is 'compost'?",
+    "options": ["Decayed organic matter used as a fertilizer", "A type of farm building", "A machine for planting seeds", "A chemical to kill weeds"],
+    "answer": "Decayed organic matter used as a fertilizer",
+    "info": "Compost is made by recycling organic materials, such as food scraps and plant waste, into a nutrient-rich soil amendment."
+  },
+  {
+    "question": "What is a female adult cow called?",
+    "options": ["Cow", "Bull", "Calf", "Heifer"],
+    "answer": "Cow",
+    "info": "A female adult is a 'cow.' A 'bull' is a male adult. A 'calf' is a baby. A 'heifer' is a female that has not yet had a calf."
+  },
+  {
+    "question": "Which crop is grown to make textiles, like t-shirts and jeans?",
+    "options": ["Cotton", "Corn", "Soybean", "Rice"],
+    "answer": "Cotton",
+    "info": "Cotton is a fiber crop, and its fluffy 'bolls' are harvested, spun into thread, and used to make a wide variety of fabrics."
+  },
+  {
+    "question": "What is the practice of keeping bees called?",
+    "options": ["Apiculture", "Horticulture", "Aquaculture", "Sericulture"],
+    "answer": "Apiculture",
+    "info": "Apiculture, or beekeeping, is the maintenance of bee colonies, commonly in man-made hives, to collect honey and beeswax."
+  },
+  {
+    "question": "Which of these is a citrus fruit?",
+    "options": ["Orange", "Banana", "Grape", "Strawberry"],
+    "answer": "Orange",
+    "info": "Citrus fruits are known for their thick rind and pulpy, acidic flesh. Other examples include lemons, limes, and grapefruits."
+  },
+  {
+    "question": "What basic need do plants get from the sun?",
+    "options": ["Energy (light)", "Water", "Nutrients", "Support"],
+    "answer": "Energy (light)",
+    "info": "Plants use light from the sun to perform photosynthesis, the process of converting light energy into chemical energy (food)."
+  },
+  {
+    "question": "A person who owns or manages a farm is called a...?",
+    "options": ["Farmer", "Baker", "Blacksmith", "Miner"],
+    "answer": "Farmer",
+    "info": "A farmer is a person engaged in agriculture, raising living organisms for food or raw materials."
+  },
+  {
+    "question": "What is 'hydroponics'?",
+    "options": ["Growing plants without soil, using water and nutrients", "A weather prediction system for farms", "A type of irrigation", "A breed of cattle"],
+    "answer": "Growing plants without soil, using water and nutrients",
+    "info": "Hydroponics allows plants to be grown in nutrient-rich solutions, often indoors, without the need for soil."
+  },
+  {
+    "question": "Which animal is a 'piglet'?",
+    "options": ["A young pig", "A young sheep", "A young goat", "A young horse"],
+    "answer": "A young pig",
+    "info": "A young pig is a piglet, a young sheep is a lamb, a young goat is a kid, and a young horse is a foal."
+  },
+  {
+    "question": "What is 'livestock'?",
+    "options": ["Farm animals raised for use and profit", "The tools used on a farm", "A type of crop", "A fence to keep animals in"],
+    "answer": "Farm animals raised for use and profit",
+    "info": "Livestock includes animals such as cattle, sheep, pigs, goats, and poultry."
+  },
+  {
+    "question": "What is the common term for unwanted plants that grow in a field?",
+    "options": ["Weeds", "Crops", "Herbs", "Flowers"],
+    "answer": "Weeds",
+    "info": "Weeds compete with the main crops for sunlight, water, and soil nutrients, and farmers must work to control them."
+  },
+  {
+    "question": "What is 'pollination'?",
+    "options": ["The transfer of pollen, often by bees, to fertilize plants", "The process of harvesting crops", "A method of watering plants", "The act of planting seeds"],
+    "answer": "The transfer of pollen, often by bees, to fertilize plants",
+    "info": "Pollination is necessary for many plants to produce fruits and seeds. Bees, butterflies, wind, and birds can all be pollinators."
+  },
+  {
+    "question": "What is a large farm building used for storing hay?",
+    "options": ["Barn", "Greenhouse", "Silo", "Paddock"],
+    "answer": "Barn",
+    "info": "A barn is a versatile farm building often used to store hay (animal fodder), house livestock, or store equipment."
+  },
+  {
+    "question": "What is 'tilling'?",
+    "options": ["Preparing soil for planting by breaking it up", "Cutting grass", "Milking a cow", "Shearing a sheep"],
+    "answer": "Preparing soil for planting by breaking it up",
+    "info": "Tilling (or plowing) is the agricultural preparation of soil by mechanical agitation of various types, such as digging, stirring, and overturning."
+  },
+  {
+    "question": "Which of these is a common dairy product?",
+    "options": ["Cheese", "Bread", "Bacon", "Orange Juice"],
+    "answer": "Cheese",
+    "info": "Dairy products are food items produced from milk. Other examples include yogurt, butter, and cream."
+  },
+  {
+    "question": "What is a 'scarecrow' traditionally used for?",
+    "options": ["To frighten birds away from crops", "To predict the weather", "To water the fields", "To mark the edge of a property"],
+    "answer": "To frighten birds away from crops",
+    "info": "A scarecrow is a decoy, typically a human-shaped figure, set up to discourage birds from feeding on seeds or growing crops."
+  },
+  {
+    "question": "Which of these is NOT a farm animal?",
+    "options": ["Tiger", "Goat", "Horse", "Pig"],
+    "answer": "Tiger",
+    "info": "Tigers are wild animals, while goats, horses, and pigs are commonly domesticated and raised on farms."
+  },
+  {
+    "question": "What is a 'crop'?",
+    "options": ["A plant grown to be harvested for food or profit", "A baby sheep", "A type of farm tool", "A farm building"],
+    "answer": "A plant grown to be harvested for food or profit",
+    "info": "Common crops include grains like corn and wheat, vegetables like tomatoes and lettuce, and fruits like apples and strawberries."
+  },
+  {
+    "question": "What is the science and practice of growing fruits, flowers, or ornamental plants called?",
+    "options": ["Horticulture", "Geology", "Zoology", "Meteorology"],
+    "answer": "Horticulture",
+    "info": "Horticulture is a branch of agriculture that deals with the art, science, technology, and business of growing plants."
+  },
+  {
+    "question": "What is the meat from a pig called?",
+    "options": ["Pork", "Beef", "Chicken", "Lamb"],
+    "answer": "Pork",
+    "info": "Pork is the meat from a pig. Beef is from a cow, chicken is from a chicken, and lamb is from a young sheep."
+  },
+  {
+    "question": "What is a 'seed'?",
+    "options": ["The part of a plant from which a new plant can grow", "The leaf of a plant", "The root of a plant", "The flower of a plant"],
+    "answer": "The part of a plant from which a new plant can grow",
+    "info": "A seed contains an embryo and a food supply, which are protected by an outer coat. Planting seeds is the first step in growing most crops."
+  }
+]

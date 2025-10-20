@@ -1,0 +1,243 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+    "answer": "New Delhi",
+    "info": "New Delhi became the capital of India in 1911, replacing Calcutta during British rule."
+  },
+  {
+    "question": "What is the capital of the United States?",
+    "options": ["New York", "Los Angeles", "Washington, D.C.", "Chicago"],
+    "answer": "Washington, D.C.",
+    "info": "Washington, D.C. was founded in 1790 and named after George Washington, the first U.S. President."
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": ["Kyoto", "Tokyo", "Osaka", "Nagoya"],
+    "answer": "Tokyo",
+    "info": "Tokyo, once called Edo, became Japan’s capital in 1868 when Emperor Meiji moved the seat of power there."
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": ["Lyon", "Nice", "Paris", "Marseille"],
+    "answer": "Paris",
+    "info": "Known as the 'City of Light', Paris is renowned for art, fashion, and the iconic Eiffel Tower."
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": ["Beijing", "Shanghai", "Guangzhou", "Hong Kong"],
+    "answer": "Beijing",
+    "info": "Beijing is one of the world’s oldest cities and the political center of China for over 800 years."
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "options": ["Saint Petersburg", "Moscow", "Novosibirsk", "Kazan"],
+    "answer": "Moscow",
+    "info": "Moscow is home to the Kremlin, a historic fortress and the seat of Russian government."
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": ["Venice", "Rome", "Milan", "Florence"],
+    "answer": "Rome",
+    "info": "Rome, known as 'The Eternal City', was the heart of the ancient Roman Empire."
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "answer": "Ottawa",
+    "info": "Ottawa was chosen as Canada’s capital in 1857 by Queen Victoria for its location between English and French regions."
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer": "Canberra",
+    "info": "Canberra was built as a compromise between rival cities Sydney and Melbourne."
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": ["Berlin", "Frankfurt", "Munich", "Hamburg"],
+    "answer": "Berlin",
+    "info": "Berlin was reunified as Germany’s capital after the fall of the Berlin Wall in 1989."
+  },
+  {
+    "question": "What is the capital of the United Kingdom?",
+    "options": ["Manchester", "Birmingham", "London", "Liverpool"],
+    "answer": "London",
+    "info": "London is a global financial hub and home to historic landmarks like Buckingham Palace and Big Ben."
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": ["Rio de Janeiro", "Brasília", "São Paulo", "Salvador"],
+    "answer": "Brasília",
+    "info": "Brasília was inaugurated in 1960 and designed by architect Oscar Niemeyer to promote national development inland."
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "options": ["Seoul", "Busan", "Incheon", "Daegu"],
+    "answer": "Seoul",
+    "info": "Seoul is one of Asia’s most technologically advanced cities and the heart of South Korean culture."
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": ["Barcelona", "Madrid", "Valencia", "Seville"],
+    "answer": "Madrid",
+    "info": "Madrid has been Spain’s capital since the 16th century and is located in the center of the country."
+  },
+  {
+    "question": "What is the capital of Pakistan?",
+    "options": ["Karachi", "Lahore", "Islamabad", "Peshawar"],
+    "answer": "Islamabad",
+    "info": "Islamabad was built in the 1960s to replace Karachi as Pakistan’s capital due to its strategic and central location."
+  },
+  {
+    "question": "What is the capital of Nepal?",
+    "options": ["Pokhara", "Kathmandu", "Lalitpur", "Biratnagar"],
+    "answer": "Kathmandu",
+    "info": "Kathmandu is known as the 'City of Temples' and sits in a valley surrounded by the Himalayas."
+  },
+  {
+    "question": "What is the capital of Sri Lanka?",
+    "options": ["Colombo", "Kandy", "Galle", "Jaffna"],
+    "answer": "Colombo",
+    "info": "Colombo is Sri Lanka’s largest city and commercial capital, blending colonial heritage with modern growth."
+  },
+  {
+    "question": "What is the capital of Bangladesh?",
+    "options": ["Chittagong", "Dhaka", "Sylhet", "Khulna"],
+    "answer": "Dhaka",
+    "info": "Dhaka, once part of the Mughal Empire, is among the most densely populated cities in the world."
+  },
+  {
+    "question": "What is the capital of Afghanistan?",
+    "options": ["Herat", "Kabul", "Kandahar", "Mazar-i-Sharif"],
+    "answer": "Kabul",
+    "info": "Kabul is one of the oldest cities in Central Asia and has been Afghanistan’s capital for over 250 years."
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "options": ["Chiang Mai", "Bangkok", "Pattaya", "Phuket"],
+    "answer": "Bangkok",
+    "info": "Bangkok is known for its vibrant street life, temples, and as the gateway to Southeast Asia."
+  },
+  {
+    "question": "What is the capital of Singapore?",
+    "options": ["Singapore City", "Sentosa", "Marina Bay", "Clarke Quay"],
+    "answer": "Singapore City",
+    "info": "Singapore City is both the capital and the entire nation—an island city-state known for efficiency and innovation."
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "options": ["Cairo", "Alexandria", "Giza", "Luxor"],
+    "answer": "Cairo",
+    "info": "Cairo, located on the Nile River, is near the ancient pyramids of Giza and is the largest city in Africa."
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "options": ["Johannesburg", "Cape Town", "Pretoria", "Durban"],
+    "answer": "Pretoria",
+    "info": "South Africa has three capitals: Pretoria (executive), Cape Town (legislative), and Bloemfontein (judicial)."
+  },
+  {
+    "question": "What is the capital of Saudi Arabia?",
+    "options": ["Mecca", "Medina", "Riyadh", "Jeddah"],
+    "answer": "Riyadh",
+    "info": "Riyadh, once a small oasis, has grown into a modern metropolis and the heart of Saudi governance."
+  },
+  {
+    "question": "What is the capital of Indonesia?",
+    "options": ["Bali", "Jakarta", "Bandung", "Surabaya"],
+    "answer": "Jakarta",
+    "info": "Jakarta, on the island of Java, is Indonesia’s political and economic center."
+  },
+  {
+    "question": "What is the capital of Malaysia?",
+    "options": ["Kuala Lumpur", "Penang", "Johor Bahru", "Malacca"],
+    "answer": "Kuala Lumpur",
+    "info": "Kuala Lumpur is famous for the Petronas Twin Towers and its multicultural heritage."
+  },
+  {
+    "question": "What is the capital of New Zealand?",
+    "options": ["Auckland", "Christchurch", "Wellington", "Hamilton"],
+    "answer": "Wellington",
+    "info": "Wellington, located on the southern tip of the North Island, is known for its arts scene and windy weather."
+  },
+  {
+    "question": "What is the capital of Norway?",
+    "options": ["Bergen", "Oslo", "Stavanger", "Trondheim"],
+    "answer": "Oslo",
+    "info": "Oslo is surrounded by fjords and forests, reflecting Norway’s deep connection with nature."
+  },
+  {
+    "question": "What is the capital of Sweden?",
+    "options": ["Gothenburg", "Stockholm", "Malmö", "Uppsala"],
+    "answer": "Stockholm",
+    "info": "Stockholm is spread across 14 islands and known for its stunning waterways and Nobel Prize ceremonies."
+  },
+  {
+    "question": "What is the capital of Switzerland?",
+    "options": ["Geneva", "Zurich", "Bern", "Basel"],
+    "answer": "Bern",
+    "info": "Bern is Switzerland’s de facto capital and known for its medieval old town, a UNESCO World Heritage Site."
+  },
+  {
+    "question": "What is the capital of Portugal?",
+    "options": ["Porto", "Lisbon", "Coimbra", "Braga"],
+    "answer": "Lisbon",
+    "info": "Lisbon sits on seven hills beside the Tagus River and is one of Europe’s oldest cities."
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "options": ["Cancun", "Guadalajara", "Mexico City", "Monterrey"],
+    "answer": "Mexico City",
+    "info": "Built atop the ancient Aztec capital Tenochtitlán, Mexico City is one of the world’s largest cities."
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "options": ["Rosario", "Buenos Aires", "Cordoba", "Mendoza"],
+    "answer": "Buenos Aires",
+    "info": "Buenos Aires is often called the 'Paris of South America' for its European architecture and tango culture."
+  },
+  {
+    "question": "What is the capital of Turkey?",
+    "options": ["Istanbul", "Ankara", "Izmir", "Bursa"],
+    "answer": "Ankara",
+    "info": "Ankara became Turkey’s capital in 1923 under Mustafa Kemal Atatürk for its central location."
+  },
+  {
+    "question": "What is the capital of Greece?",
+    "options": ["Athens", "Santorini", "Sparta", "Rhodes"],
+    "answer": "Athens",
+    "info": "Athens is one of the world’s oldest cities, known as the cradle of democracy and Western philosophy."
+  },
+  {
+    "question": "What is the capital of Iran?",
+    "options": ["Shiraz", "Mashhad", "Tehran", "Isfahan"],
+    "answer": "Tehran",
+    "info": "Tehran sits at the foot of the Alborz Mountains and has been Iran’s capital since the late 18th century."
+  },
+  {
+    "question": "What is the capital of Israel?",
+    "options": ["Tel Aviv", "Jerusalem", "Haifa", "Nazareth"],
+    "answer": "Jerusalem",
+    "info": "Jerusalem is a sacred city for Judaism, Christianity, and Islam, and one of the oldest cities in the world."
+  },
+  {
+    "question": "What is the capital of UAE?",
+    "options": ["Dubai", "Abu Dhabi", "Sharjah", "Ajman"],
+    "answer": "Abu Dhabi",
+    "info": "Abu Dhabi is the largest emirate and the political and industrial center of the UAE."
+  },
+  {
+    "question": "What is the capital of Kenya?",
+    "options": ["Mombasa", "Nairobi", "Kisumu", "Eldoret"],
+    "answer": "Nairobi",
+    "info": "Nairobi is known as the 'Green City in the Sun' and hosts a national park within its city limits."
+  },
+  {
+    "question": "What is the capital of the Philippines?",
+    "options": ["Cebu", "Davao", "Manila", "Quezon City"],
+    "answer": "Manila",
+    "info": "Manila lies on the eastern shore of Manila Bay and is one of the most densely populated cities in the world."
+  }
+]
+

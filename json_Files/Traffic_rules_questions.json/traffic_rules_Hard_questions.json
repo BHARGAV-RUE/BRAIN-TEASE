@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Under what condition can you legally cross a solid white line separating lanes?",
+    "options": ["When turning into a driveway", "When overtaking", "At high speed", "During a U-turn"],
+    "answer": "When turning into a driveway",
+    "info": "Solid white lines generally should not be crossed, but an exception exists for turning safely into or out of a side road or driveway."
+  },
+  {
+    "question": "What is the penalty for refusing a breathalyzer test under the Motor Vehicles Act, 1988 in India?",
+    "options": ["Fine and disqualification", "Only fine", "Warning", "License suspended for 6 months"],
+    "answer": "Fine and disqualification",
+    "info": "Refusing a breathalyzer test can lead to a fine and possible disqualification from driving under Indian traffic laws."
+  },
+  {
+    "question": "At what blood alcohol concentration (BAC) level is a driver considered legally intoxicated in India?",
+    "options": ["0.03% or 30 mg/100 ml of blood", "0.08%", "0.01%", "0.05%"],
+    "answer": "0.03% or 30 mg/100 ml of blood",
+    "info": "Driving with a BAC exceeding 30 mg per 100 ml of blood is a punishable offense under Indian law."
+  },
+  {
+    "question": "What does a double broken white line indicate?",
+    "options": ["Lane merging ahead", "Hazard zone", "Dangerous overtaking zone", "End of the road"],
+    "answer": "Hazard zone",
+    "info": "Double broken lines alert drivers of potentially hazardous zones requiring extra caution for overtaking."
+  },
+  {
+    "question": "When approaching a roundabout, which vehicle has the right of way?",
+    "options": ["Vehicles already inside the roundabout", "Vehicles entering from right", "Vehicles entering first", "Vehicles approaching at higher speed"],
+    "answer": "Vehicles already inside the roundabout",
+    "info": "Vehicles circulating within the roundabout have the right of way, and entering vehicles must yield."
+  },
+  {
+    "question": "Which instrument in a vehicle shows engine revolutions per minute (RPM)?",
+    "options": ["Tachometer", "Odometer", "Speedometer", "Fuel gauge"],
+    "answer": "Tachometer",
+    "info": "The tachometer measures the rotational speed of the engine in revolutions per minute."
+  },
+  {
+    "question": "When driving downhill with manual transmission, what gear should be used to maintain control?",
+    "options": ["Low gear", "High gear", "Reverse gear", "Neutral"],
+    "answer": "Low gear",
+    "info": "Using a low gear creates engine braking to maintain traction control on steep declines."
+  },
+  {
+    "question": "What is the maximum period for which a temporary driver’s license is valid in India?",
+    "options": ["Six months", "One month", "Three months", "One year"],
+    "answer": "Six months",
+    "info": "A learner’s or temporary driving license in India remains valid for up to six months."
+  },
+  {
+    "question": "In which situation are hazard warning lights used legally?",
+    "options": ["When vehicle is stationary and causes obstruction", "While overtaking", "During highway driving", "When changing lanes"],
+    "answer": "When vehicle is stationary and causes obstruction",
+    "info": "Hazard warning lights are only for stationary vehicles posing danger or obstruction to others."
+  },
+  {
+    "question": "In foggy conditions, which lights should be used to improve visibility?",
+    "options": ["Low beam headlights and fog lamps", "High beam", "Parking lights", "Hazard warning lights"],
+    "answer": "Low beam headlights and fog lamps",
+    "info": "High beams reflect off fog particles; low beams and fog lamps improve near-field visibility."
+  },
+  {
+    "question": "Which type of sign warns drivers of a railway crossing ahead without barriers?",
+    "options": ["Circular red alert sign with a train symbol", "Diamond-shaped sign", "Blue rectangular sign", "Inverted triangle"],
+    "answer": "Circular red alert sign with a train symbol",
+    "info": "Railway crossings without barriers are earlier warned using circular red signs showing a locomotive symbol."
+  },
+  {
+    "question": "Which factor increases the risk of hydroplaning?",
+    "options": ["High speed on wet road", "Low tire pressure", "Dry surface", "Driving in low gear"],
+    "answer": "High speed on wet road",
+    "info": "At high speeds, tires lose traction on water film, causing hydroplaning where steering control is lost."
+  },
+  {
+    "question": "According to the Motor Vehicles (Amendment) Act, 2019, what is the fine for not wearing a helmet?",
+    "options": ["₹1000 and license suspension", "₹500", "₹1500", "Warning only"],
+    "answer": "₹1000 and license suspension",
+    "info": "The 2019 rule sets ₹1000 fine for not wearing a helmet, with a potential license suspension for 3 months."
+  },
+  {
+    "question": "Why are convex mirrors used as side-view mirrors in vehicles?",
+    "options": ["They provide a wider field of view", "They magnify objects", "They block sunlight", "They provide night vision"],
+    "answer": "They provide a wider field of view",
+    "info": "Convex mirrors cover a larger viewing angle, helping detect vehicles approaching from behind."
+  },
+  {
+    "question": "What does a continuous yellow centerline on a two-way road signify?",
+    "options": ["No overtaking", "Parking allowed", "U-turn allowed", "Bus lane"],
+    "answer": "No overtaking",
+    "info": "A solid yellow centerline signifies overtaking is prohibited in either direction."
+  },
+  {
+    "question": "Which road marking indicates a pedestrian crossing ahead?",
+    "options": ["Broad white stripes", "Zigzag white lines", "Yellow lane markings", "Solid line"],
+    "answer": "Broad white stripes",
+    "info": "Broad white zebra stripes on the pavement warn drivers of a pedestrian crossing ahead."
+  },
+  {
+    "question": "Which lane should be used for overtaking on multi-lane Indian highways?",
+    "options": ["Right lane", "Left lane", "Middle lane", "Shoulder lane"],
+    "answer": "Right lane",
+    "info": "Vehicles in India overtake from the right lane as driving is left-side oriented."
+  },
+  {
+    "question": "What is the minimum legal tire tread depth for vehicles?",
+    "options": ["1.6 mm", "3.0 mm", "0.8 mm", "4.5 mm"],
+    "answer": "1.6 mm",
+    "info": "A tread depth under 1.6 mm compromises grip and violates safety regulations."
+  },
+  {
+    "question": "What is the minimum insurance required by law to drive a car in India?",
+    "options": ["Third-party insurance", "Comprehensive insurance", "Personal accident insurance", "Full coverage"],
+    "answer": "Third-party insurance",
+    "info": "Indian law mandates third-party insurance to cover damages to other persons or property."
+  },
+  {
+    "question": "What does an inverted triangular traffic sign indicate?",
+    "options": ["Give way", "Stop", "Prohibition", "Information"],
+    "answer": "Give way",
+    "info": "An inverted triangle means yield or give way to oncoming traffic."
+  },
+  {
+    "question": "At night, what should you do when faced with blinding headlights from oncoming vehicles?",
+    "options": ["Look to the left edge of the road", "Flash your headlights", "Close your eyes momentarily", "Speed up"],
+    "answer": "Look to the left edge of the road",
+    "info": "Looking slightly away helps maintain orientation without being blinded by glare."
+  },
+  {
+    "question": "Why are speed bumps painted with alternating stripes of black and yellow?",
+    "options": ["To increase visibility", "To decorate the surface", "To prevent erosion", "To help tire grip"],
+    "answer": "To increase visibility",
+    "info": "Black and yellow stripes ensure visibility of bumps in all lighting conditions."
+  },
+  {
+    "question": "What does ABS in vehicles stand for?",
+    "options": ["Anti-lock Braking System", "Automatic Balance System", "Axle Brake Support", "Advanced Brake Safety"],
+    "answer": "Anti-lock Braking System",
+    "info": "ABS prevents wheel lock during sudden braking, maintaining steering control."
+  },
+  {
+    "question": "What distance should be maintained from the vehicle in front at 80 km/h (using the two-second rule)?",
+    "options": ["About 44 meters", "20 meters", "10 meters", "80 meters"],
+    "answer": "About 44 meters",
+    "info": "At 80 km/h, you travel roughly 44 meters in two seconds — the recommended following distance."
+  },
+  {
+    "question": "At what minimum age can one apply for a commercial driving license in India?",
+    "options": ["20 years", "18 years", "25 years", "21 years"],
+    "answer": "20 years",
+    "info": "Drivers must be at least 20 years old and possess one year’s experience for commercial license eligibility."
+  },
+  {
+    "question": "What does the presence of red reflectors on the road signify?",
+    "options": ["Vehicle facing opposite direction", "Start of tunnel", "Center divider", "Bicycle lane"],
+    "answer": "Vehicle facing opposite direction",
+    "info": "Red reflectors indicate one is facing against the proper flow of traffic."
+  },
+  {
+    "question": "What causes brake fade in long downhill driving?",
+    "options": ["Overheating of brakes", "Low fuel pressure", "Low engine oil", "Wet tires"],
+    "answer": "Overheating of brakes",
+    "info": "Brake pads overheat during prolonged braking, reducing effectiveness known as brake fade."
+  },
+  {
+    "question": "When stopping at night on a dark road, what should be turned on?",
+    "options": ["Parking lights", "High beams", "Fog lamps", "Headlights only"],
+    "answer": "Parking lights",
+    "info": "Parking lights indicate a stationary vehicle to other road users in low-visibility conditions."
+  },
+  {
+    "question": "Which sign is triangular with a red border and a black exclamation mark inside?",
+    "options": ["General danger warning", "Speed limit", "Compulsory turn", "Road widening"],
+    "answer": "General danger warning",
+    "info": "This triangular sign warns drivers of a general danger ahead without specifying the kind."
+  },
+  {
+    "question": "What is aquaplaning in vehicle dynamics?",
+    "options": ["Tires lose contact with road due to water", "Tire burst", "Skidding on sand", "Oversteering in curves"],
+    "answer": "Tires lose contact with road due to water",
+    "info": "Aquaplaning causes tires to glide on water film, losing traction completely."
+  },
+  {
+    "question": "When can a vehicle be legally towed by traffic police?",
+    "options": ["Illegally parked or obstructing", "Driver absent", "Engine on", "License expired"],
+    "answer": "Illegally parked or obstructing",
+    "info": "Police can tow vehicles parked in prohibited zones or obstructing the road."
+  },
+  {
+    "question": "What is the stopping distance of a car traveling at 60 km/h on dry roads roughly?",
+    "options": ["36 meters", "15 meters", "60 meters", "25 meters"],
+    "answer": "36 meters",
+    "info": "At 60 km/h, a typical braking and reaction distance together total around 36 meters."
+  },
+  {
+    "question": "Why should high-beam headlights not be used in city driving?",
+    "options": ["They cause glare for other drivers", "They consume more fuel", "They damage the lamp", "They reduce fog visibility"],
+    "answer": "They cause glare for other drivers",
+    "info": "High beams dazzle other drivers at short range; low beams suffice in cities."
+  },
+  {
+    "question": "What priority do emergency vehicles have while traffic police direct signal control?",
+    "options": ["Highest priority", "Equal to other vehicles", "Depends on traffic", "Lowest priority"],
+    "answer": "Highest priority",
+    "info": "Even under police signals, emergency vehicles like ambulances retain top passage priority."
+  },
+  {
+    "question": "Which rule ensures that the steering hand position improves control?",
+    "options": ["9 and 3 o’clock rule", "6 and 12 o’clock rule", "12 and 12 rule", "8 and 4 rule"],
+    "answer": "9 and 3 o’clock rule",
+    "info": "Holding the steering wheel at 9 and 3 provides balanced control and safety."
+  },
+  {
+    "question": "When should headlights be dipped for approaching traffic at night?",
+    "options": ["150 meters", "50 meters", "500 meters", "200 meters"],
+    "answer": "150 meters",
+    "info": "Headlights must be dipped within 150 meters of the oncoming traffic to prevent glare."
+  },
+  {
+    "question": "How are high occupancy vehicle (HOV) lanes identified?",
+    "options": ["Diamond symbol on road surface", "Red marking", "Yellow border", "Special signboard"],
+    "answer": "Diamond symbol on road surface",
+    "info": "HOV lanes often feature diamond markings indicating lanes reserved for multiple passengers per vehicle."
+  },
+  {
+    "question": "Why is tailgating dangerous at high speeds?",
+    "options": ["Reduces reaction time to sudden braking", "Improves slipstreaming", "Increases airflow", "Saves fuel"],
+    "answer": "Reduces reaction time to sudden braking",
+    "info": "Tailgating eliminates braking buffer space, increasing crash chances if the car ahead stops abruptly."
+  },
+  {
+    "question": "What should be done if the traffic signal lights fail at an intersection?",
+    "options": ["Follow manual signals of police", "Proceed without stopping", "Blow horn and cross", "Stop indefinitely"],
+    "answer": "Follow manual signals of police",
+    "info": "Manual hand signals by a traffic officer take precedence over faulty traffic lights."
+  },
+  {
+    "question": "What is the maximum permissible speed limit on most expressways in India?",
+    "options": ["120 km/h", "100 km/h", "140 km/h", "90 km/h"],
+    "answer": "120 km/h",
+    "info": "As per Ministry of Road Transport notifications, 120 km/h is the cap for expressways in India."
+  }
+]

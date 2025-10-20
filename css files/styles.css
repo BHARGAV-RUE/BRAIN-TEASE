@@ -1,16 +1,17 @@
 body{
     margin: 0;
-    background: #E0F7FA;
+    background: white;
 }
 
 nav{
-    background:#007B83;
+    background-color: transparent;
     max-width: 100vw;
     height: 3rem;
     margin-top: 10px;
     border-radius: 25px;
     display: flex;
     justify-content: space-between;
+    box-shadow: 5px 5px 10px #F2F2D9;
 }
 
 .logo{
@@ -28,20 +29,18 @@ nav{
 }
 
 .nav-anchors{
-    width: 30%;
+    width: 60%;
     text-decoration: none;
-    color: black;
+    color: white;
     text-align: center;
     font-size: 1.5rem;
 
-    border: 1px solid white;
+    border: 1px solid black;
     border-radius: 25px;
-    background: #7DF9FF;
+    background: black;
 }
 
 .nav-anchors:hover{
-    color: white;
-    background-color: #FF6EC7;
 }
 
 

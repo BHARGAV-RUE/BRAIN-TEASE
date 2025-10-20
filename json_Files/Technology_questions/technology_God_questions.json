@@ -1,0 +1,242 @@
+[
+  {
+    "question": "What is the primary optimization goal of the 'Byzantine Fault Tolerance' (BFT) algorithm in distributed consensus?",
+    "options": ["To maximize transaction throughput", "To minimize network latency", "To achieve consensus even if $k$ nodes are malicious or faulty", "To reduce the number of CPU cycles"],
+    "answer": "To achieve consensus even if $k$ nodes are malicious or faulty",
+    "info": "BFT algorithms (like PBFT) are designed to solve the 'Byzantine Generals' Problem,' ensuring a distributed network can agree on a single state despite some nodes (up to a certain threshold) failing or acting maliciously."
+  },
+  {
+    "question": "In computational complexity theory, what class of problems is defined by being solvable by a quantum computer in polynomial time?",
+    "options": ["P", "NP", "BQP", "PSPACE"],
+    "answer": "BQP",
+    "info": "BQP (Bounded-error Quantum Polynomial time) is the class of decision problems solvable by a quantum computer in polynomial time, with an error probability of at most 1/3 for all instances. Shor's algorithm for factoring is a famous BQP problem."
+  },
+  {
+    "question": "What is the 'Curse of Dimensionality' in the context of machine learning and data analysis?",
+    "options": ["The exponential increase in data volume required to maintain statistical significance as the number of features increases", "When a model has too many parameters and overfits the data", "The difficulty of processing data stored in more than three dimensions", "A computational limit on the number of dimensions a GPU can process"],
+    "answer": "The exponential increase in data volume required to maintain statistical significance as the number of features increases",
+    "info": "Coined by Richard Bellman, this refers to how data becomes increasingly sparse in high-dimensional spaces, making tasks like clustering and nearest-neighbor search computationally intractable and statistically unreliable."
+  },
+  {
+    "question": "What does the 'Church-Turing thesis' postulate?",
+    "options": ["That all programming languages are equally powerful", "That any computable function can be computed by a Turing machine", "That quantum computers are superior to classical computers", "That P = NP"],
+    "answer": "That any computable function can be computed by a Turing machine",
+    "info": "This thesis is a fundamental principle of computer science, which posits that any 'effectively calculable' function (any function that can be computed by an algorithm) can also be computed by a universal Turing machine. It defines the very limit of what is computable."
+  },
+  {
+    "question": "In advanced CPU architecture, what is 'speculative execution'?",
+    "options": ["A method for guessing user input to improve speed", "A technique where the CPU performs tasks before it is certain they are needed", "A type of AI-driven code optimization", "A method for encrypting data in the L1 cache"],
+    "answer": "A technique where the CPU performs tasks before it is certain they are needed",
+    "info": "Speculative execution (and branch prediction) is an optimization where the CPU predicts the outcome of a conditional branch (e.g., an 'if' statement) and starts executing the predicted path, discarding the results if the prediction was wrong. This is the mechanism exploited by the 'Spectre' vulnerability."
+  },
+  {
+    "question": "What is the 'Y combinator' in lambda calculus?",
+    "options": ["A famous startup incubator", "A function that implements recursion in a language that doesn't natively support it", "A cryptographic key-generation algorithm", "A method for combining multiple AI models"],
+    "answer": "A function that implements recursion in a language that doesn't natively support it",
+    "info": "The Y combinator is a higher-order function (a fixed-point combinator) that, when applied to a function, returns a recursive version of that function. It's a foundational concept in theoretical computer science and functional programming."
+  },
+  {
+    "question": "What problem does 'Consistent Hashing' solve in distributed systems?",
+    "options": ["It prevents man-in-the-middle attacks", "It guarantees ACID transactions", "It minimizes data re-shuffling when nodes are added or removed from a cluster", "It ensures all data is encrypted at rest"],
+    "answer": "It minimizes data re-shuffling when nodes are added or removed from a cluster",
+    "info": "In a distributed hash table, a simple 'mod N' hash (where N is servers) would require remapping all keys if N changes. Consistent hashing maps keys and servers to a ring, so adding/removing a server only affects its immediate neighbors, dramatically reducing data migration."
+  },
+  {
+    "question": "What is 'Homomorphic Encryption'?",
+    "options": ["An encryption method that uses the same key for encryption and decryption", "An encryption scheme that allows computations to be performed on ciphertext", "Encryption that changes its algorithm based on the data type", "A system for encrypting entire hard drives"],
+    "answer": "An encryption scheme that allows computations to be performed on ciphertext",
+    "info": "Homomorphic encryption allows a third party (e.g., a cloud provider) to process encrypted data without ever decrypting it. The result of the computation, when decrypted, is the same as if the computation were done on the plaintext."
+  },
+  {
+    "question": "What is the 'Zermelo-Fraenkel set theory with the Axiom of Choice' (ZFC)?",
+    "options": ["A data compression algorithm", "A network routing protocol", "The standard axiomatic foundation for modern mathematics and computer science", "A quantum mechanics principle"],
+    "answer": "The standard axiomatic foundation for modern mathematics and computer science",
+    "info": "ZFC is the formal set of axioms upon which almost all of modern mathematics is built. It defines the 'universe' of mathematical objects (sets) and is foundational to proofs of algorithm correctness and computability."
+  },
+  {
+    "question": "What is the core difference between 'Spinlocks' and 'Mutexes' in concurrent programming?",
+    "options": ["Spinlocks are for hardware, Mutexes are for software", "Mutexes are faster than Spinlocks", "A Spinlock 'busy-waits' (burns CPU cycles), while a Mutex 'sleeps' (yields the CPU)", "Spinlocks can be used by multiple threads, Mutexes cannot"],
+    "answer": "A Spinlock 'busy-waits' (burns CPU cycles), while a Mutex 'sleeps' (yields the CPU)",
+    "info": "A thread trying to acquire a spinlock will loop (spin) until the lock is free. A thread trying to acquire a mutex will be put to sleep by the OS scheduler, freeing the CPU. Spinlocks are only efficient for very short lock-hold times where the cost of context-switching is higher than the cost of spinning."
+  },
+  {
+    "question": "What is 'QUIC' (Quick UDP Internet Connections)?",
+    "options": ["A new CPU instruction set", "A data compression algorithm", "A transport layer network protocol that runs on UDP, intended to replace TCP", "A type of solid-state memory"],
+    "answer": "A transport layer network protocol that runs on UDP, intended to replace TCP",
+    "info": "Developed by Google (now an IETF standard), QUIC aims to fix TCP's flaws. It multiplexes streams over a single UDP connection, avoiding head-of-line blocking, and integrates TLS (encryption) into the transport handshake for 0-RTT connection setup."
+  },
+  {
+    "question": "What is the 'Grover's algorithm' in quantum computing?",
+    "options": ["An algorithm for factoring large numbers", "An algorithm for simulating quantum systems", "An algorithm for a 'black-box' search, providing a quadratic speedup", "An algorithm for solving linear equations"],
+    "answer": "An algorithm for a 'black-box' search, providing a quadratic speedup",
+    "info": "Grover's algorithm can search an unsorted database of N items in $O(\\sqrt{N})$ time, whereas a classical computer would require $O(N)$ time. This offers a significant, though not exponential, speedup for unstructured search problems."
+  },
+  {
+    "question": "What is a 'Generative Adversarial Network' (GAN)?",
+    "options": ["A type of firewall", "A type of computer virus", "A machine learning model architecture with two competing neural networks", "A consensus algorithm for blockchains"],
+    "answer": "A machine learning model architecture with two competing neural networks",
+    "info": "A GAN consists of a 'Generator' (which creates fake data) and a 'Discriminator' (which tries to tell fake from real). They are trained together in a zero-sum game, resulting in generators capable of creating highly realistic images, text, or audio."
+  },
+  {
+    "question": "In 'Category Theory', what is a 'Monad'?",
+    "options": ["A single-core processor", "A type of design pattern for abstracting computations and managing side effects", "A unit of quantum information", "A form of data encryption"],
+    "answer": "A type of design pattern for abstracting computations and managing side effects",
+    "info": "In functional programming (like Haskell), a Monad is a design pattern that provides a standardized way to handle computations with a context (e.g., managing state, handling I/O, or dealing with potential 'null' values via the Maybe monad) in a purely functional way."
+  },
+  {
+    "question": "What is 'Phase-Change Memory' (PCM)?",
+    "options": ["A type of RAM that requires constant refreshing", "A type of non-volatile memory that stores data by changing a material's physical state", "A theoretical memory for quantum computers", "A high-speed cache for GPUs"],
+    "answer": "A type of non-volatile memory that stores data by changing a material's physical state",
+    "info": "PCM (like Intel's Optane) uses chalcogenide glass, which can be 'switched' between an orderly crystalline state (low resistance) and a disordered amorphous state (high resistance) to represent 0 and 1. It bridges the gap in speed and persistence between DRAM and NAND flash."
+  },
+  {
+    "question": "What is the purpose of the 'Spanning Tree Protocol' (STP) in Ethernet networks?",
+    "options": ["To find the fastest route between two nodes", "To encrypt network traffic", "To prevent broadcast storms by disabling redundant paths in a switched network", "To load-balance traffic across multiple links"],
+    "answer": "To prevent broadcast storms by disabling redundant paths in a switched network",
+    "info": "If a network has redundant (looped) paths for high availability, broadcast packets would loop forever, creating a 'broadcast storm' that crashes the network. STP logically blocks these redundant paths, creating a loop-free 'tree' topology, and re-enables them if the primary path fails."
+  },
+  {
+    "question": "What is 'Bloom Filter'?",
+    "options": ["An image processing filter", "A probabilistic data structure for testing set membership", "A type of network firewall rule", "A "],
+    "answer": "A probabilistic data structure for testing set membership",
+    "info": "A Bloom filter is a space-efficient data structure that can tell you if an element is *definitely not* in a set or *might be* in a set. It allows for false positives but never false negatives, making it ideal for caches or checking against large blocklists."
+  },
+  {
+    "question": "What is the 'P vs. NP' problem?",
+    "options": ["A debate about programming language superiority", "A problem of network vs. processing speed", "One of the most important unsolved problems in computer science", "A problem related to power consumption in processors"],
+    "answer": "One of the most important unsolved problems in computer science",
+    "info": "It asks: Can every problem whose solution can be *quickly verified* (NP) also be *quickly solved* (P)? Most computer scientists believe P $\\ne$ NP, meaning there are problems (like factoring or the traveling salesman) for which finding a solution is fundamentally harder than checking one."
+  },
+  {
+    "question": "What is 'tail recursion optimization'?",
+    "options": ["A manual coding technique to reduce memory", "A compiler optimization that turns a specific type of recursion into an iterative loop", "A hardware feature in modern CPUs", "A method for debugging recursive functions"],
+    "answer": "A compiler optimization that turns a specific type of recursion into an iterative loop",
+    "info": "If a function's very last action is to call itself ('tail call'), the compiler can reuse the current stack frame instead of creating a new one. This prevents stack overflow errors and makes the recursion as efficient as a simple 'while' loop."
+  },
+  {
+    "question": "What is a 'zero-knowledge proof' (ZKP)?",
+    "options": ["A logical paradox", "A cryptographic method where one party can prove to another that a statement is true, without revealing any information beyond the statement's validity", "A type of 'honeypot' security trap", "An AI model that has not been trained"],
+    "answer": "A cryptographic method where one party can prove to another that a statement is true, without revealing any information beyond the statement's validity",
+    "info": "ZKPs are used in authentication and cryptocurrencies (like Zcash). They allow you to prove you know a secret (like a password or a private key) without ever transmitting the secret itself, preventing eavesdropping or theft."
+  },
+  {
+    "question": "What is the 'Actor Model' of computation?",
+    "options": ["A software testing methodology", "A conceptual model of concurrent computation based on 'actors' communicating via asynchronous messages", "A user-interface design paradigm", "A CPU architecture for AI"],
+    "answer": "A conceptual model of concurrent computation based on 'actors' communicating via asynchronous messages",
+    "info": "In the Actor Model (popularized by languages like Erlang), 'actors' are primitive units of computation that have a private state and a mailbox. They communicate only by sending messages, avoiding the deadlocks and race conditions of shared-memory concurrency."
+  },
+  {
+    "question": "What is the 'lambda-calculus'?",
+    "options": ["A branch of mathematics for calculating integrals", "A formal system of computation based on function abstraction and application", "A network bandwidth calculation formula", "A query language for graph databases"],
+    "answer": "A formal system of computation based on function abstraction and application",
+    "info": "Developed by Alonzo Church, lambda calculus is a universal model of computation (Turing-complete) that forms the theoretical foundation for all functional programming languages, such as Lisp, Haskell, and Scheme."
+  },
+  {
+    "question": "What is a 'side-channel attack'?",
+    "options": ["A network attack that targets secondary, less-secure ports", "An attack based on information gained from the *physical implementation* of a cryptosystem", "A type of social engineering attack", "A database injection attack"],
+    "answer": "An attack based on information gained from the *physical implementation* of a cryptosystem",
+    "info": "Instead of brute-forcing the algorithm, a side-channel attack observes a system's power consumption, electromagnetic emissions, or timing variations (timing attacks) to deduce internal state and cryptographic keys."
+  },
+  {
+    "question": "What is 'eBPF' (extended Berkeley Packet Filter)?",
+    "options": ["A new type of network firewall", "A virtual machine-like construct inside the Linux kernel for safe, sandboxed custom programs", "A file system for large-scale data", "A high-performance graphics API"],
+    "answer": "A virtual machine-like construct inside the Linux kernel for safe, sandboxed custom programs",
+    "info": "eBPF allows developers to write small programs that run directly inside the kernel in a secure sandbox. This is used for high-performance networking, security monitoring, and system tracing without changing kernel code."
+  },
+  {
+    "question": "In 'Type Theory', what is the 'Curry-Howard isomorphism'?",
+    "options": ["A relationship between CPU architecture and assembly language", "A direct correspondence between mathematical proofs and computer programs", "A method for converting SQL queries to NoSQL", "A theory of data compression"],
+    "answer": "A direct correspondence between mathematical proofs and computer programs",
+    "info": "This isomorphism (or correspondence) states that a 'type' is analogous to a 'logical proposition,' and a 'program' with that type is analogous to a 'proof' of that proposition. This is the foundation of 'proof assistants' and 'dependently-typed' languages like Coq and Agda."
+  },
+  {
+    "question": "What is 'Shor's algorithm'?",
+    "options": ["A sorting algorithm faster than QuickSort", "A quantum algorithm for efficiently finding the prime factors of an integer", "A machine learning algorithm for image recognition", "A network congestion control algorithm"],
+    "answer": "A quantum algorithm for efficiently finding the prime factors of an integer",
+    "info": "This is the most famous quantum algorithm. Because modern public-key cryptography (like RSA) relies on the classical difficulty of factoring, Shor's algorithm proves that a sufficiently powerful quantum computer could break most of today's encryption."
+  },
+  {
+    "question": "What is 'locality-sensitive hashing' (LSH)?",
+    "options": ["A cryptographic hash function", "An algorithm for finding *approximate* nearest neighbors in high-dimensional spaces", "A method for hashing data based on its geographic location", "A type of memory cache hash"],
+    "answer": "An algorithm for finding *approximate* nearest neighbors in high-dimensional spaces",
+    "info": "LSH is a technique where similar input items are hashed to the same 'buckets' with high probability. This is much faster than exact search and is used in large-scale clustering, image search, and data deduplication."
+  },
+  {
+    "question": "What is 'Register Renaming' in a superscalar processor?",
+    "options": ["A coding practice of naming variables after CPU registers", "A security feature to hide register values", "A technique to eliminate false data dependencies, enabling more out-of-order execution", "A method for re-compiling code for different CPUs"],
+    "answer": "A technique to eliminate false data dependencies, enabling more out-of-order execution",
+    "info": "This hardware technique maps logical (architectural) registers to a larger set of physical registers, resolving 'write-after-read' and 'write-after-write' hazards. This allows instructions that are *needlessly* blocked to execute in parallel, increasing instruction-level parallelism."
+  },
+  {
+    "question": "What is the 'CRDT' (Conflict-free Replicated Data Type)?",
+    "options": ["A type of secure database", "A data structure designed to be replicated across multiple nodes and updated independently, with a mathematically guaranteed method for merging", "A unit of error-correction code", "A high-speed transaction log"],
+    "answer": "A data structure designed to be replicated across multiple nodes and updated independently, with a mathematically guaranteed method for merging",
+    "info": "CRDTs are used in distributed systems (like collaborative editors or high-availability databases) that require 'eventual consistency'. They are designed so that concurrent edits from different users can always be merged into a correct final state, without conflicts."
+  },
+  {
+    "question": "What is 'Metcalfe's Law'?",
+    "options": ["A law governing CPU clock speed limits", "The observation that the value of a telecommunications network is proportional to the square of the number of its users ($n^2$)", "A law of thermodynamics related to heat dissipation in chips", "A software development principle about team size"],
+    "answer": "The observation that the value of a telecommunications network is proportional to the square of the number of its users ($n^2$)",
+    "info": "This law explains the 'network effect' of platforms like social media or the telephone. As more users join, the number of possible connections (and thus the network's value) grows quadratically, creating a powerful incentive for more users to join."
+  },
+  {
+    "question": "What is the primary role of a 'hypervisor'?",
+    "options": ["To manage and run virtual machines (VMs)", "To optimize database queries", "To monitor network traffic for security threats", "To overclock a CPU safely"],
+    "answer": "To manage and run virtual machines (VMs)",
+    "info": "A hypervisor (or Virtual Machine Monitor, VMM) is the software that creates and runs VMs. A 'Type 1' hypervisor (like VMware ESXi) runs directly on the hardware. A 'Type 2' hypervisor (like VirtualBox) runs as an application on top of a host operating system."
+  },
+  {
+    "question": "What is 'Amdahl's Law' used to calculate?",
+    "options": ["The maximum theoretical speedup from parallelizing a program", "The power consumption of a circuit", "The signal-to-noise ratio in a channel", "The failure rate of a hard drive"],
+    "answer": "The maximum theoretical speedup from parallelizing a program",
+    "info": "Amdahl's Law states that the speedup of a program is limited by the fraction of the program that *cannot* be parallelized. Even with infinite processors, a program with 10% sequential code can, at most, be sped up 10x."
+  },
+  {
+    "question": "In 'Formal Methods', what is 'model checking'?",
+    "options": ["A type of unit testing for machine learning models", "An automated technique to algorithmically verify if a system model satisfies a formal specification", "A method for checking 3D models for errors", "A security review of a system's threat model"],
+    "answer": "An automated technique to algorithmically verify if a system model satisfies a formal specification",
+    "info": "Model checking explores all possible states of a system (e.g., a hardware design or a concurrent protocol) to *prove* that it does not violate properties like 'a deadlock can never occur' or 'two users can never access the same resource simultaneously.'"
+  },
+  {
+    "question": "What is 'photolithography' in the context of semiconductors?",
+    "options": ["A method of data storage using light", "The process of using light to transfer a pattern from a 'photomask' onto a silicon wafer", "A type of fiber-optic communication", "An algorithm for rendering 3D graphics"],
+    "answer": "The process of using light to transfer a pattern from a 'photomask' onto a silicon wafer",
+    "info": "This is the fundamental manufacturing process for all modern CPUs, GPUs, and memory chips. It involves projecting patterns of light (often Extreme Ultraviolet, or EUV) through a mask onto a light-sensitive chemical (photoresist) to etch trillions of transistors onto a silicon wafer."
+  },
+  {
+    "question": "What is 'Dijkstra's algorithm' fundamentally designed to solve?",
+    "options": ["The shortest path problem in a graph with non-negative edge weights", "The problem of sorting an array", "The problem of finding prime factors", "The problem of cryptographic key exchange"],
+    "answer": "The shortest path problem in a graph with non-negative edge weights",
+    "info": "It is a 'greedy' graph search algorithm that finds the shortest path from a single source vertex to all other vertices in a weighted graph. It is the basis for many routing protocols, including OSPF."
+  },
+  {
+    "question": "What is 'HTTP/3' and what is its main change from HTTP/2?",
+    "options": ["It is a minor update that adds new status codes", "It is a complete rewrite that uses QUIC (over UDP) instead of TCP", "It is a new version that requires all connections to use a VPN", "It is a version focused on text-only, low-bandwidth communication"],
+    "answer": "It is a complete rewrite that uses QUIC (over UDP) instead of TCP",
+    "info": "HTTP/2 solved 'head-of-line blocking' at the HTTP layer, but it was still vulnerable to 'head-of-line blocking' at the *TCP* layer (where one lost packet blocks all streams). HTTP/3 moves to QUIC (on UDP) to eliminate this problem entirely, as streams are independent."
+  },
+  {
+    "question": "What is 'dark silicon'?",
+    "options": ["A type of silicon used in solar panels", "The parts of a microchip that are intentionally left unpowered to manage heat and power consumption", "A theoretical material for quantum computing", "A secure, encrypted enclave in a CPU"],
+    "answer": "The parts of a microchip that are intentionally left unpowered to manage heat and power consumption",
+    "info": "As transistors shrink, power density increases. 'Dark silicon' refers to the end of Moore's Law scaling, where we can build *more* transistors but cannot afford to power all of them on at once without melting the chip. This has forced a move to specialized, efficient cores."
+  },
+  {
+    "question": "What is 'Turing completeness'?",
+    "options": ["A measure of how fast a computer is", "A certification for secure software", "The property of a system (like a programming language) that can compute any function a universal Turing machine can", "The ability of an AI to pass the Turing Test"],
+    "answer": "The property of a system (like a programming language) that can compute any function a universal Turing machine can",
+    "info": "A system is Turing-complete if it can be used to simulate any other Turing machine. Most general-purpose programming languages (like Python, C++, Java) are Turing-complete. Even some 'accidental' systems, like Microsoft PowerPoint's animation system, have been proven to be Turing-complete."
+  },
+  {
+    "question": "What does a 'JIT' (Just-In-Time) compiler do?",
+    "options": ["It compiles code at the moment it is downloaded", "It translates code (like Java bytecode) into native machine code immediately before execution", "It is a compiler that runs entirely on the GPU", "It is a tool for scheduling compiling tasks"],
+    "answer": "It translates code (like Java bytecode) into native machine code immediately before execution",
+    "info": "A JIT compiler (used by Java's JVM and JavaScript's V8 engine) combines the portability of an interpreter with the speed of a compiler. It analyzes running code and compiles 'hot' methods into optimized machine code, significantly boosting performance."
+  },
+  {
+    "question": "What is the 'Paxos' algorithm?",
+    "options": ["A data compression algorithm", "A family of protocols for achieving consensus in a distributed system with faulty, but not malicious, nodes", "A machine learning algorithm for natural language processing", "A file system for flash memory"],
+    "answer": "A family of protocols for achieving consensus in a distributed system with faulty, but not malicious, nodes",
+    "info": "Paxos (and its more understandable cousin, Raft) is a foundational algorithm used in distributed databases and systems (like Google's Chubby) to get all nodes in a cluster to agree on a value (e.g., who is the 'leader'), despite network delays and node failures."
+  }
+]

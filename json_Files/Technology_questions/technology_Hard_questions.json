@@ -1,0 +1,242 @@
+[
+  {
+    "question": "What is the primary purpose of the 'B-tree' data structure in database systems?",
+    "options": ["To store data in a sorted order", "To minimize disk I/O operations for lookups", "To enable full-text search", "To manage network packet routing"],
+    "answer": "To minimize disk I/O operations for lookups",
+    "info": "B-trees are balanced tree structures optimized for systems that read and write large blocks of data. They are widely used in databases and filesystems to reduce the number of disk accesses required to locate a desired record."
+  },
+  {
+    "question": "In TCP, what mechanism is used to handle network congestion by dynamically adjusting the sending rate?",
+    "options": ["Three-way handshake", "Sliding Window", "Congestion Avoidance (e.g., AIMD)", "DNS Lookup"],
+    "answer": "Congestion Avoidance (e.g., AIMD)",
+    "info": "TCP uses congestion control algorithms like AIMD (Additive Increase, Multiplicative Decrease) to probe for available bandwidth and quickly reduce the sending rate when packet loss (indicating congestion) is detected."
+  },
+  {
+    "question": "What does 'idempotent' mean in the context of an HTTP method?",
+    "options": ["The method is secure and encrypted", "The method can be cached by intermediaries", "Multiple identical requests have the same effect as one request", "The method can only be executed once"],
+    "answer": "Multiple identical requests have the same effect as one request",
+    "info": "An HTTP method is idempotent if clients can make the same call repeatedly while producing the same result. Methods like GET, PUT, and DELETE are idempotent, while POST is not."
+  },
+  {
+    "question": "What is the 'Halting Problem' in computer science?",
+    "options": ["A problem where a program freezes and stops responding", "The challenge of determining if a program will ever crash", "The undecidable problem of determining if a program will eventually stop for a given input", "A hardware fault that causes a CPU to stop executing"],
+    "answer": "The undecidable problem of determining if a program will eventually stop for a given input",
+    "info": "Alan Turing proved in 1936 that a general algorithm to solve the halting problem for all possible program-input pairs cannot exist. It's a fundamental limit of computation."
+  },
+  {
+    "question": "Which cryptographic concept ensures that a sender cannot deny having sent a message?",
+    "options": ["Confidentiality", "Integrity", "Availability", "Non-repudiation"],
+    "answer": "Non-repudiation",
+    "info": "Non-repudiation is achieved using digital signatures (typically via public-key cryptography), which cryptographically links a message to a specific sender, making it difficult for them to deny authorship."
+  },
+  {
+    "question": "What is the core principle behind 'Moore's Law'?",
+    "options": ["The speed of the internet doubles every 18 months", "The number of transistors on a microchip doubles approximately every two years", "Storage density on hard drives doubles every year", "Software complexity doubles every 18 months"],
+    "answer": "The number of transistors on a microchip doubles approximately every two years",
+    "info": "Observed by Intel co-founder Gordon Moore in 1965, this 'law' has been a guiding principle for the semiconductor industry, driving rapid increases in computing power."
+  },
+  {
+    "question": "In machine learning, what is 'overfitting'?",
+    "options": ["A model that is too simple to capture the data's underlying trend", "A model that performs poorly on both training and test data", "A model that performs exceptionally well on training data but poorly on new, unseen data", "A model that takes too long to train"],
+    "answer": "A model that performs exceptionally well on training data but poorly on new, unseen data",
+    "info": "Overfitting occurs when a model learns the 'noise' and specific details of the training data to such an extent that it fails to generalize to new data. Regularization techniques are used to combat this."
+  },
+  {
+    "question": "What is the function of the 'ARP' (Address Resolution Protocol)?",
+    "options": ["To resolve domain names into IP addresses", "To assign IP addresses to devices on a network", "To resolve IP addresses into MAC (physical) addresses", "To encrypt network traffic"],
+    "answer": "To resolve IP addresses into MAC (physical) addresses",
+    "info": "When a device on a LAN knows the IP address of another device but not its physical MAC address, it sends an ARP request to discover the MAC address needed for Layer 2 communication."
+  },
+  {
+    "question": "What distinguishes a 'process' from a 'thread' in an operating system?",
+    "options": ["A process is a type of thread", "Threads share the same memory space, while processes have separate memory spaces", "Processes are lightweight, while threads are heavyweight", "Only processes can be executed by the CPU"],
+    "answer": "Threads share the same memory space, while processes have separate memory spaces",
+    "info": "A process is an independent program execution with its own memory. Threads are smaller units of execution *within* a process, sharing the process's memory, which makes communication between threads faster but also introduces synchronization challenges."
+  },
+  {
+    "question": "What is the 'CAP Theorem' in distributed systems?",
+    "options": ["A system must have Capacity, Availability, and Performance", "A system can only be either Concurrent, Atomic, or Persistent", "A system can only strongly guarantee two of: Consistency, Availability, and Partition Tolerance", "A system must implement Caching, Asynchronicity, and Parallelism"],
+    "answer": "A system can only strongly guarantee two of: Consistency, Availability, and Partition Tolerance",
+    "info": "The CAP theorem states that in the event of a network partition (P), a distributed system must choose between guaranteeing that all nodes have the most recent data (Consistency - C) or guaranteeing that every request receives a response (Availability - A)."
+  },
+  {
+    "question": "What is 'RAID 5' in data storage?",
+    "options": ["Mirroring data across two drives", "Spanning data across multiple drives with no redundancy", "Striping data with distributed parity", "Mirroring and striping data (RAID 1+0)"],
+    "answer": "Striping data with distributed parity",
+    "info": "RAID 5 requires at least three disks. It stripes data across all disks and distributes parity information, allowing the array to withstand the failure of any single drive without data loss."
+  },
+  {
+    "question": "Which of these is NOT a principle of object-oriented programming (OOP)?",
+    "options": ["Encapsulation", "Inheritance", "Polymorphism", "Referential Transparency"],
+    "answer": "Referential Transparency",
+    "info": "Referential Transparency is a core concept in *functional* programming, where a function, given the same input, will always produce the same output, free of side effects. Encapsulation, Inheritance, and Polymorphism are the classic pillars of OOP."
+  },
+  {
+    "question": "What is a 'DDoS' attack?",
+    "options": ["A virus that steals data from a single computer", "An attempt to decrypt data by trying all possible keys", "An attack that floods a server with traffic from many different sources", "An email scam to steal login credentials"],
+    "answer": "An attack that floods a server with traffic from many different sources",
+    "info": "DDoS stands for 'Distributed Denial of Service'. It uses a 'botnet' (a network of compromised computers) to overwhelm a target's resources (like bandwidth or processing power), making the service unavailable to legitimate users."
+  },
+  {
+    "question": "What is the 'endianness' of a computer system?",
+    "options": ["The speed of the CPU clock", "The order in which it stores bytes of a multi-byte number in memory", "The number of bits in its instruction set (e.g., 32-bit vs 64-bit)", "The type of logic gates used in the ALU"],
+    "answer": "The order in which it stores bytes of a multi-byte number in memory",
+    "info": "'Big-endian' stores the most significant byte first, while 'little-endian' (used by x86 processors) stores the least significant byte first. This is crucial for network programming and data-sharing between different architectures."
+  },
+  {
+    "question": "What does a 'compiler' do?",
+    "options": ["Executes code line-by-line", "Translates an entire high-level language program into machine code", "Bundles multiple code files into one library", "Debugs code by finding logical errors"],
+    "answer": "Translates an entire high-level language program into machine code",
+    "info": "A compiler (like for C++ or Java) translates the entire source code into an executable file *before* it is run. This is different from an 'interpreter' (like for Python or JavaScript) which translates and executes code line-by-line."
+  },
+  {
+    "question": "What is the 'Turing Test'?",
+    "options": ["A test of a CPU's processing speed", "A test of a computer's ability to exhibit intelligent behavior indistinguishable from a human", "A benchmark for graphics card performance", "A security test to check for system vulnerabilities"],
+    "answer": "A test of a computer's ability to exhibit intelligent behavior indistinguishable from a human",
+    "info": "Proposed by Alan Turing, the test involves a human evaluator judging natural language conversations. If the evaluator cannot reliably tell the machine from the human, the machine is said to have passed the test."
+  },
+  {
+    "question": "In networking, what is 'NAT' (Network Address Translation)?",
+    "options": ["A protocol for securely connecting to a private network", "A service that maps domain names to IP addresses", "A method of remapping one IP address space into another", "A way to encrypt data packets"],
+    "answer": "A method of remapping one IP address space into another",
+    "info": "NAT is most commonly used by home routers to allow multiple devices on a private network (using private IPs like 192.168.x.x) to share a single, public IP address assigned by the ISP."
+  },
+  {
+    "question": "What is 'garbage collection' in programming?",
+    "options": ["A security feature that deletes malicious files", "A manual process of deleting unused code", "An automatic memory management feature that reclaims memory used by objects that are no longer needed", "A tool for cleaning up temporary internet files"],
+    "answer": "An automatic memory management feature that reclaims memory used by objects that are no longer needed",
+    "info": "Languages like Java, Python, and C# use garbage collection to free developers from manual memory deallocation (like in C/C++), which helps prevent memory leaks."
+  },
+  {
+    "question": "What is the 'ACID' acronym in database transactions?",
+    "options": ["Asynchronous, Concurrent, Isolated, Durable", "Atomic, Consistent, Isolated, Durable", "Available, Concurrent, Independent, Distributed", "Atomic, Committed, Indexed, Distributed"],
+    "answer": "Atomic, Consistent, Isolated, Durable",
+    "info": "ACID properties guarantee that database transactions are processed reliably: Atomicity (all or nothing), Consistency (preserves database rules), Isolation (transactions don't interfere), and Durability (changes are permanent)."
+  },
+  {
+    "question": "What is 'quantum computing's' fundamental unit of information?",
+    "options": ["Bit", "Qubit", "Transistor", "Photon"],
+    "answer": "Qubit",
+    "info": "Unlike a classical 'bit' (which is 0 or 1), a 'qubit' (quantum bit) can exist in a 'superposition' of both 0 and 1 simultaneously, allowing quantum computers to perform certain calculations exponentially faster."
+  },
+  {
+    "question": "What is 'virtual memory' in an operating system?",
+    "options": ["Memory stored in the cloud", "A portion of RAM reserved for the OS kernel", "A storage technique that uses the hard drive as if it were additional RAM", "A type of very fast cache memory"],
+    "answer": "A storage technique that uses the hard drive as if it were additional RAM",
+    "info": "Virtual memory allows a system to run larger applications or more applications at once than it has physical RAM to support, by temporarily moving 'pages' of memory data to and from the disk."
+  },
+  {
+    "question": "What is the purpose of 'Docker'?",
+    "options": ["To build websites without code", "A version control system for code", "A platform for developing, shipping, and running applications in containers", "A database management system"],
+    "answer": "A platform for developing, shipping, and running applications in containers",
+    "info": "Containers (like those managed by Docker) bundle an application's code with all its dependencies, allowing it to run reliably and consistently in any computing environment."
+  },
+  {
+    "question": "Which of these sorting algorithms has the best average-case time complexity?",
+    "options": ["Bubble Sort", "Insertion Sort", "Quick Sort", "Selection Sort"],
+    "answer": "Quick Sort",
+    "info": "Quick Sort has an average-case time complexity of O(n log n). Bubble Sort, Insertion Sort, and Selection Sort all have an average-case complexity of O(n^2), making them much less efficient for large datasets."
+  },
+  {
+    "question": "What is a 'Man-in-the-Middle' (MITM) attack?",
+    "options": ["An attack that floods a server with traffic", "A phishing email that looks like it's from management", "An attack where the adversary secretly relays and possibly alters communications between two parties", "A virus that infects the central processor"],
+    "answer": "An attack where the adversary secretly relays and possibly alters communications between two parties",
+    "info": "In a MITM attack, the attacker intercepts a communication (e.g., on public Wi-Fi), impersonating both parties to read, insert, or modify messages without either victim realizing the link is compromised."
+  },
+  {
+    "question": "What does the 'chmod' command do in Unix/Linux?",
+    "options": ["Changes the owner of a file", "Changes the file permissions (read, write, execute)", "Creates a new directory", "Moves a file to a new location"],
+    "answer": "Changes the file permissions (read, write, execute)",
+    "info": "'chmod' stands for 'change mode'. It uses octal numbers (e.g., 755) or symbolic notation (e.g., u+x) to set permissions for the file's owner, group, and all other users."
+  },
+  {
+    "question": "What is the 'OSI Model'?",
+    "options": ["A physical computer architecture", "A software development lifecycle", "A conceptual framework for standardizing network communication functions into seven layers", "A standard for open-source software licensing"],
+    "answer": "A conceptual framework for standardizing network communication functions into seven layers",
+    "info": "The Open Systems Interconnection (OSI) model divides network communication into layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application. It helps in understanding and troubleshooting network protocols."
+  },
+  {
+    "question": "What is a 'hash collision'?",
+    "options": ["When two network packets arrive at the same time", "When two different inputs to a hash function produce the same output", "When a database transaction fails and must be rolled back", "When a computer's CPU and GPU try to access the same memory"],
+    "answer": "When two different inputs to a hash function produce the same output",
+    "info": "Hash functions are designed to map large inputs to a fixed-size output. A collision is inevitable (due to the pigeonhole principle) but problematic in cryptography and hash tables, where uniqueness is desired."
+  },
+  {
+    "question": "What is the primary difference between 'SQL' and 'NoSQL' databases?",
+    "options": ["SQL is free, NoSQL is commercial", "SQL is for Windows, NoSQL is for Linux", "SQL databases are relational (schema-based), NoSQL databases are non-relational (schema-flexible)", "SQL is old, NoSQL is new"],
+    "answer": "SQL databases are relational (schema-based), NoSQL databases are non-relational (schema-flexible)",
+    "info": "SQL databases (like MySQL, PostgreSQL) use tables with predefined columns and relationships. NoSQL databases (like MongoDB, Cassandra) use flexible data models like document, key-value, or graph, and are often built for high scalability."
+  },
+  {
+    "question": "What is 'Latency' in networking?",
+    "options": ["The total amount of data that can be sent per second", "The time it takes for a data packet to travel from its source to its destination", "The number of data packets lost during transmission", "The physical distance of the network cable"],
+    "answer": "The time it takes for a data packet to travel from its source to its destination",
+    "info": "Latency (often measured in milliseconds as 'ping') is the delay in data transfer. Low latency is critical for real-time applications like online gaming and video conferencing. It is different from 'bandwidth', which is the throughput."
+  },
+  {
+    "question": "In cryptography, what is 'Diffie-Hellman'?",
+    "options": ["A symmetric encryption algorithm", "A hash function", "A key exchange protocol", "A digital signature standard"],
+    "answer": "A key exchange protocol",
+    "info": "Diffie-Hellman is a method that allows two parties, who have no prior knowledge of each other, to jointly establish a shared secret key over an insecure communication channel. This key can then be used for symmetric encryption."
+  },
+  {
+    "question": "What is 'Big O Notation' used for?",
+    "options": ["To describe the physical size of a microchip", "To measure the exact execution time of an algorithm", "To describe the limiting behavior (complexity) of an algorithm as the input size grows", "To define the memory address of a variable"],
+    "answer": "To describe the limiting behavior (complexity) of an algorithm as the input size grows",
+    "info": "Big O notation (e.g., O(n), O(n log n), O(n^2)) provides a high-level classification of an algorithm's efficiency, focusing on how its runtime or space requirements scale with the size of the input data."
+  },
+  {
+    "question": "What is 'L1 Cache' in a CPU?",
+    "options": ["The main system RAM", "The virtual memory swap file on the hard drive", "A small, extremely fast memory built directly into the CPU core", "A large, slower memory shared by all CPU cores"],
+    "answer": "A small, extremely fast memory built directly into the CPU core",
+    "info": "L1 (Level 1) cache is the fastest and smallest level of cache, holding the instructions and data the CPU is most likely to need next. L2 and L3 caches are progressively larger but slower."
+  },
+  {
+    "question": "What does a 'REST API' primarily use to perform operations?",
+    "options": ["TCP Sockets", "HTTP methods (GET, POST, PUT, DELETE)", "SOAP envelopes", "Remote Procedure Calls (RPC)"],
+    "answer": "HTTP methods (GET, POST, PUT, DELETE)",
+    "info": "REST (Representational State Transfer) is an architectural style that uses the standard HTTP verbs to create, read, update, and delete (CRUD) resources, which are typically represented in formats like JSON."
+  },
+  {
+    "question": "What is a 'race condition' in concurrent programming?",
+    "options": ["When two programs compete to run first", "A situation where the system's behavior depends on the unpredictable timing of operations", "When a CPU runs faster than the RAM", "A security flaw where a user gains privileges too quickly"],
+    "answer": "A situation where the system's behavior depends on the unpredictable timing of operations",
+    "info": "A race condition occurs when multiple threads or processes access shared data, and the final result depends on the order in which their operations are executed. It can lead to corrupted data and is prevented using synchronization mechanisms like mutexes or semaphores."
+  },
+  {
+    "question": "Which protocol is stateless?",
+    "options": ["TCP", "HTTP", "FTP", "SSH"],
+    "answer": "HTTP",
+    "info": "HTTP (Hypertext Transfer Protocol) is stateless, meaning each request from a client to a server is treated as an independent transaction. The server does not retain any session information about the client between requests (this is why cookies are used)."
+  },
+  {
+    "question": "What is 'SQL Injection'?",
+    "options": ["A method for speeding up database queries", "An attack technique that inserts malicious SQL code into a query", "The process of updating a database schema", "A type of database-to-database replication"],
+    "answer": "An attack technique that inserts malicious SQL code into a query",
+    "info": "This vulnerability occurs when an application includes untrusted data (like from a user form) in a database query. An attacker can use it to bypass authentication, view private data, or even delete the entire database."
+  },
+  {
+    "question": "What is a 'daemon' in a Unix-like operating system?",
+    "options": ["A malicious program that runs in secret", "A background process that is not under the direct control of a user", "The core part of the operating system (the kernel)", "A user-facing application with a graphical interface"],
+    "answer": "A background process that is not under the direct control of a user",
+    "info": "Daemons are service processes that run in the background to handle tasks like web serving (httpd), scheduling (crond), or logging (syslogd). They are typically started at boot time."
+  },
+  {
+    "question": "What is 'polymorphism' in OOP?",
+    "options": ["The ability of an object to take on many forms", "The process of hiding implementation details from the user", "The ability to create a new class from an existing class", "The bundling of data and methods into a single unit"],
+    "answer": "The ability of an object to take on many forms",
+    "info": "Polymorphism allows a single interface (like a method name) to be used for different data types or classes. For example, a 'shape.draw()' method could behave differently for a 'Circle' object versus a 'Square' object."
+  },
+  {
+    "question": "What is 'DNS' (Domain Name System) used for?",
+    "options": ["To encrypt website traffic with SSL", "To translate human-readable domain names into IP addresses", "To assign IP addresses to devices on a network (DHCP)", "To store large files in the cloud"],
+    "answer": "To translate human-readable domain names into IP addresses",
+    "info": "DNS acts as the 'phonebook' of the internet. When you type 'google.com' into your browser, DNS servers are responsible for finding the corresponding IP address (e.g., 142.250.180.14) that your computer needs to connect to."
+  },
+  {
+    "question": "What is 'agile' in software development?",
+    "options": ["A specific programming language", "A methodology based on iterative development and collaboration", "A type of hardware architecture", "A tool for compiling code quickly"],
+    "answer": "A methodology based on iterative development and collaboration",
+    "info": "Agile methodologies (like Scrum or Kanban) prioritize flexibility, customer feedback, and rapid releases in small increments (sprints) over the rigid, long-term planning of traditional 'waterfall' models."
+  }
+]

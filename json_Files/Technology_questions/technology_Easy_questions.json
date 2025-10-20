@@ -1,0 +1,242 @@
+[
+  {
+    "question": "What does 'CPU' stand for?",
+    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Power Unit", "Core Processing Unit"],
+    "answer": "Central Processing Unit",
+    "info": "The CPU is the primary component of a computer that executes instructions. It's often called the 'brain' of the computer."
+  },
+  {
+    "question": "What does 'RAM' stand for?",
+    "options": ["Read Access Memory", "Random Access Memory", "Run Application Memory", "Real-time Access Memory"],
+    "answer": "Random Access Memory",
+    "info": "RAM is a type of volatile memory that stores data and machine code currently being used. It's much faster to read from and write to than other storage like an HDD or SSD."
+  },
+  {
+    "question": "Which company developed the Windows operating system?",
+    "options": ["Apple", "Google", "Microsoft", "Linux"],
+    "answer": "Microsoft",
+    "info": "Microsoft, co-founded by Bill Gates and Paul Allen, released the first version of Windows in 1985."
+  },
+  {
+    "question": "What is 'HTML' primarily used for?",
+    "options": ["Creating web pages", "Styling websites", "Server-side programming", "Database management"],
+    "answer": "Creating web pages",
+    "info": "HTML (HyperText Markup Language) is the standard markup language for documents designed to be displayed in a web browser. It forms the structure of a webpage."
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": ["Universal Resource Locator", "Uniform Resource Locator", "Universal Reference Link", "Uniform Resource Link"],
+    "answer": "Uniform Resource Locator",
+    "info": "A URL is the address of a resource on the World Wide Web, such as a webpage or a file."
+  },
+  {
+    "question": "What type of software is Microsoft Excel?",
+    "options": ["Word processor", "Spreadsheet", "Database", "Presentation software"],
+    "answer": "Spreadsheet",
+    "info": "Excel is a spreadsheet program used to organize, format, and calculate data with formulas using a grid of cells."
+  },
+  {
+    "question": "What is a 'firewall' in computer security?",
+    "options": ["A physical barrier for servers", "An antivirus software", "A network security system", "A type of computer virus"],
+    "answer": "A network security system",
+    "info": "A firewall monitors and controls incoming and outgoing network traffic based on predetermined security rules, acting as a barrier between a trusted internal network and untrusted external networks."
+  },
+  {
+    "question": "What does 'Wi-Fi' stand for?",
+    "options": ["Wireless Fidelity", "Wireless Internet For All", "Wired Fidelity", "It's not an abbreviation"],
+    "answer": "Wireless Fidelity",
+    "info": "Wi-Fi is a trademarked term for technology that allows devices to connect to a local area network (LAN) without a wired connection, using radio waves."
+  },
+  {
+    "question": "Which of these is a web browser?",
+    "options": ["Google Chrome", "Adobe Photoshop", "Microsoft Word", "Discord"],
+    "answer": "Google Chrome",
+    "info": "A web browser is a software application used to access and display websites. Other examples include Firefox, Safari, and Edge."
+  },
+  {
+    "question": "What does 'HTTP' stand for?",
+    "options": ["HyperText Transfer Protocol", "HyperText Transmission Protocol", "Hyperlink Text Transfer Protocol", "Hyperlink Transmission Protocol"],
+    "answer": "HyperText Transfer Protocol",
+    "info": "HTTP is the foundational protocol used for data communication on the World Wide Web, defining how messages are formatted and transmitted."
+  },
+  {
+    "question": "What is the main function of a 'search engine' like Google?",
+    "options": ["To sell products online", "To send emails", "To index and find information on the web", "To host websites"],
+    "answer": "To index and find information on the web",
+    "info": "A search engine is a software system designed to carry out web searches, which means to search the World Wide Web in a systematic way for particular information."
+  },
+  {
+    "question": "What is 'phishing'?",
+    "options": ["A type of computer hardware", "A method of cooling a CPU", "A fraudulent attempt to obtain sensitive information", "A new programming language"],
+    "answer": "A fraudulent attempt to obtain sensitive information",
+    "info": "Phishing involves attackers disguising themselves as a trustworthy entity in an electronic communication (like email) to steal data such as login credentials and credit card numbers."
+  },
+  {
+    "question": "What does 'SSD' stand for?",
+    "options": ["Solid State Drive", "Software Storage Device", "Secure Storage Drive", "Solid State Disk"],
+    "answer": "Solid State Drive",
+    "info": "An SSD is a storage device that uses flash memory to store data, offering much faster read/write speeds and better durability than traditional hard disk drives (HDDs)."
+  },
+  {
+    "question": "Which company makes the 'iPhone'?",
+    "options": ["Samsung", "Google", "Apple", "Huawei"],
+    "answer": "Apple",
+    "info": "Apple Inc. designs, manufactures, and markets the iPhone, a line of smartphones that run on the iOS operating system."
+  },
+  {
+    "question": "What is 'cloud computing'?",
+    "options": ["Storing data on your personal computer", "Using weather prediction software", "A type of PC case design", "Delivering computing services over the internet"],
+    "answer": "Delivering computing services over the internet",
+    "info": "Cloud computing provides on-demand services like storage, databases, servers, and software over the internet ('the cloud') instead of on a local hard drive."
+  },
+  {
+    "question": "Which of these is NOT a programming language?",
+    "options": ["Python", "Java", "HTML", "C++"],
+    "answer": "HTML",
+    "info": "HTML is a 'markup language' used to structure content on the web, not a 'programming language' used to write logic and perform computations."
+  },
+  {
+    "question": "What does 'IP' stand for in 'IP Address'?",
+    "options": ["Internet Protocol", "Internal Protocol", "Internet Provider", "Internal Provider"],
+    "answer": "Internet Protocol",
+    "info": "An IP address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication."
+  },
+  {
+    "question": "What is the main purpose of an 'Operating System' (OS)?",
+    "options": ["To browse the internet", "To manage computer hardware and software resources", "To create documents", "To protect against viruses"],
+    "answer": "To manage computer hardware and software resources",
+    "info": "The OS (like Windows, macOS, or Linux) acts as an intermediary between the user and the computer hardware, managing tasks, memory, and peripherals."
+  },
+  {
+    "question": "What is 'malware'?",
+    "options": ["A physical computer component", "A type of network cable", "Software designed to be helpful", "Malicious software designed to cause harm"],
+    "answer": "Malicious software designed to cause harm",
+    "info": "Malware is a broad term for any software intentionally designed to cause disruption or gain unauthorized access to a computer system. Examples include viruses, worms, and ransomware."
+  },
+  {
+    "question": "What does 'USB' stand for?",
+    "options": ["Universal Serial Bus", "United Serial Bus", "Universal System Bus", "Unique Serial Bus"],
+    "answer": "Universal Serial Bus",
+    "info": "USB is an industry standard that establishes specifications for cables, connectors, and protocols for connection, communication, and power supply between computers and peripheral devices."
+  },
+  {
+    "question": "What technology is used to make wireless payments with a smartphone?",
+    "options": ["Bluetooth", "NFC", "Wi-Fi Direct", "Infrared"],
+    "answer": "NFC",
+    "info": "NFC (Near Field Communication) allows two devices, like a phone and a payment terminal, to communicate when they are close together, enabling contactless payments."
+  },
+  {
+    "question": "What is 'CSS' used for in web development?",
+    "options": ["To structure the webpage", "To style the webpage's appearance", "To handle server logic", "To query databases"],
+    "answer": "To style the webpage's appearance",
+    "info": "CSS (Cascading Style Sheets) is a language used to describe the presentation (e.g., colors, fonts, layout) of a document written in HTML."
+  },
+  {
+    "question": "What does 'PDF' stand for?",
+    "options": ["Portable Document Format", "Personal Document File", "Printable Document Format", "Portable Data File"],
+    "answer": "Portable Document Format",
+    "info": "Created by Adobe, PDF is a file format used to present documents, including text formatting and images, in a manner independent of application software, hardware, and operating systems."
+  },
+  {
+    "question": "Which of these is a cloud storage service?",
+    "options": ["Microsoft Word", "Google Drive", "Photoshop", "Notepad"],
+    "answer": "Google Drive",
+    "info": "Google Drive is a file storage and synchronization service that allows users to store files in the cloud, synchronize files across devices, and share files."
+  },
+  {
+    "question": "What is a 'cookie' in computing?",
+    "options": ["A small snack for programmers", "A type of computer virus", "A small piece of data stored by a website on your browser", "A hardware component"],
+    "answer": "A small piece of data stored by a website on your browser",
+    "info": "Cookies are used to remember information about you, such as your login status, items in a shopping cart, or preferences."
+  },
+  {
+    "question": "What is the function of a 'router' in a network?",
+    "options": ["To store files", "To display websites", "To forward data packets between computer networks", "To type documents"],
+    "answer": "To forward data packets between computer networks",
+    "info": "A router connects multiple networks together and directs network traffic. In a home, it typically connects your local network to the internet."
+  },
+  {
+    "question": "What does 'AI' stand for?",
+    "options": ["Artificial Intelligence", "Automated Interface", "Advanced Internet", "Algorithmic Ingest"],
+    "answer": "Artificial Intelligence",
+    "info": "AI refers to the simulation of human intelligence in machines that are programmed to think and learn like humans."
+  },
+  {
+    "question": "What is a 'QR Code'?",
+    "options": ["A type of barcode", "A computer security key", "A video file format", "A CPU component"],
+    "answer": "A type of barcode",
+    "info": "A QR (Quick Response) code is a two-dimensional barcode that can be read by smartphones to link to a website, display text, or provide other information."
+  },
+  {
+    "question": "Which of these is an example of an 'input' device?",
+    "options": ["Monitor", "Printer", "Speakers", "Mouse"],
+    "answer": "Mouse",
+    "info": "An input device sends data to a computer. A mouse sends position and click data. Monitors, printers, and speakers are 'output' devices."
+  },
+  {
+    "question": "What is 'JavaScript' primarily used for?",
+    "options": ["Making web pages interactive", "Styling websites", "Creating databases", "Writing operating systems"],
+    "answer": "Making web pages interactive",
+    "info": "JavaScript is a programming language commonly used to create dynamic and interactive elements on websites, such as sliders, pop-up forms, and animations."
+  },
+  {
+    "question": "What does 'VR' stand for?",
+    "options": ["Visual Reality", "Virtual Reality", "Verified Reality", "Video Reality"],
+    "answer": "Virtual Reality",
+    "info": "VR is a simulated experience that can be similar to or completely different from the real world, typically experienced through special headsets."
+  },
+  {
+    "question": "What is the small program that can copy itself and infect a computer called?",
+    "options": ["A bug", "A virus", "A feature", "A cookie"],
+    "answer": "A virus",
+    "info": "A computer virus is a type of malicious code that, when executed, replicates itself by modifying other computer programs and inserting its own code."
+  },
+  {
+    "question": "What does 'GB' stand for in data storage?",
+    "options": ["GigaBit", "GigaByte", "General Bus", "GeoByte"],
+    "answer": "GigaByte",
+    "info": "A Gigabyte (GB) is a unit of digital information storage. One gigabyte is equal to about 1,000 megabytes (MB)."
+  },
+  {
+    "question": "What company created the Android operating system?",
+    "options": ["Apple", "Microsoft", "Samsung", "Google"],
+    "answer": "Google",
+    "info": "Android was originally developed by Android Inc., which Google bought in 2005. It is now the most widely used mobile operating system in the world."
+  },
+  {
+    "question": "What is 'Bluetooth'?",
+    "options": ["A long-range internet technology", "A short-range wireless technology", "A type of computer cable", "A dental technology"],
+    "answer": "A short-range wireless technology",
+    "info": "Bluetooth is used for exchanging data over short distances, commonly used for connecting headphones, speakers, and other peripherals to devices like phones and computers."
+  },
+  {
+    "question": "Which of these is an example of an 'output' device?",
+    "options": ["Keyboard", "Microphone", "Monitor", "Webcam"],
+    "answer": "Monitor",
+    "info": "An output device receives data from a computer and presents it to the user. A monitor displays visual information."
+  },
+  {
+    "question": "What is the 'cloud'?",
+    "options": ["A network of satellites", "A global network of servers", "A type of weather-resistant computer", "A new name for the internet"],
+    "answer": "A global network of servers",
+    "info": "The 'cloud' refers to a network of servers around the world that store and manage data, run applications, and deliver content or services over the internet."
+  },
+  {
+    "question": "What is 'open-source' software?",
+    "options": ["Software that is free to use", "Software that works on all operating systems", "Software with source code that anyone can inspect, modify, and enhance", "Software that has not been finished"],
+    "answer": "Software with source code that anyone can inspect, modify, and enhance",
+    "info": "Examples of open-source software include the Linux operating system, the Firefox web browser, and the Android mobile OS."
+  },
+  {
+    "question": "What does 'VPN' stand for?",
+    "options": ["Virtual Private Network", "Very Private Network", "Virtual Public Network", "Verified Private Network"],
+    "answer": "Virtual Private Network",
+    "info": "A VPN creates a secure, encrypted connection over a less secure network, such as the public internet, to provide privacy and anonymity."
+  },
+  {
+    "question": "What is a 'pixel'?",
+    "options": ["A unit of data storage", "A type of computer mouse", "The smallest unit of a digital image or display", "A measurement of internet speed"],
+    "answer": "The smallest unit of a digital image or display",
+    "info": "A digital display is made up of a grid of thousands or millions of pixels, and the color of each pixel is combined to form the final image."
+  }
+]

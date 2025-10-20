@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Which crop originated from the Ethiopian Highlands and is a major coffee variety?",
+    "options": ["Coffea arabica", "Coffea canephora", "Coffea liberica", "Coffea excelsa"],
+    "answer": "Coffea arabica",
+    "info": "Coffea arabica, native to Ethiopia, produces the most popular coffee beans due to its mild flavor and aroma."
+  },
+  {
+    "question": "Which Indian state has the highest productivity of rice?",
+    "options": ["Punjab", "West Bengal", "Karnataka", "Tamil Nadu"],
+    "answer": "Punjab",
+    "info": "Punjab leads in rice productivity due to advanced irrigation and modern farming techniques."
+  },
+  {
+    "question": "In agriculture, what does IPM stand for?",
+    "options": ["Integrated Pest Management", "Intensive Production Model", "Integrated Plant Method", "Inland Protection Mechanism"],
+    "answer": "Integrated Pest Management",
+    "info": "IPM is an eco-friendly approach that combines biological, cultural, and mechanical methods to control pests."
+  },
+  {
+    "question": "Which micronutrient deficiency causes chlorosis in plants?",
+    "options": ["Iron", "Zinc", "Manganese", "Copper"],
+    "answer": "Iron",
+    "info": "Chlorosis, the yellowing of leaves, is commonly caused by iron deficiency, impairing chlorophyll production."
+  },
+  {
+    "question": "What is the role of Rhizobium bacteria in leguminous plants?",
+    "options": ["Fix nitrogen", "Absorb water", "Produce sugar", "Store food"],
+    "answer": "Fix nitrogen",
+    "info": "Rhizobium bacteria live in root nodules of legumes and fix atmospheric nitrogen into a usable form for plants."
+  },
+  {
+    "question": "Which Indian institute is known for extensive agricultural research?",
+    "options": ["ICAR", "IARI", "IIT", "AIIMS"],
+    "answer": "ICAR",
+    "info": "The Indian Council of Agricultural Research (ICAR) coordinates and promotes agricultural research across India."
+  },
+  {
+    "question": "What is the scientific term for crop rotation that includes legumes?",
+    "options": ["Mixed farming", "Leguminous rotation", "Nitrogen economy rotation", "Green rotation"],
+    "answer": "Nitrogen economy rotation",
+    "info": "Including legumes in crop rotation helps replenish soil nitrogen levels naturally."
+  },
+  {
+    "question": "Which crop is most sensitive to frost during the flowering stage?",
+    "options": ["Potato", "Wheat", "Rice", "Maize"],
+    "answer": "Potato",
+    "info": "Potato flowers are easily damaged by frost, leading to reduced tuber formation."
+  },
+  {
+    "question": "Which technique is used to propagate plants through tissue culture?",
+    "options": ["Micropropagation", "Grafting", "Layering", "Cutting"],
+    "answer": "Micropropagation",
+    "info": "Micropropagation involves growing new plants from tissue samples in a sterile environment."
+  },
+  {
+    "question": "In soil science, what does CEC stand for?",
+    "options": ["Cation Exchange Capacity", "Carbon Exchange Coefficient", "Clay Enrichment Content", "Crop Efficiency Coefficient"],
+    "answer": "Cation Exchange Capacity",
+    "info": "CEC measures a soil’s ability to hold and exchange positively charged nutrient ions like calcium and potassium."
+  },
+  {
+    "question": "Which is the most drought-resistant cereal crop?",
+    "options": ["Sorghum", "Rice", "Wheat", "Oats"],
+    "answer": "Sorghum",
+    "info": "Sorghum is known for its high drought tolerance and can survive in dry, arid climates."
+  },
+  {
+    "question": "Which fungal disease affects wheat and produces black soot-like spores?",
+    "options": ["Black rust", "Powdery mildew", "Smut", "Leaf spot"],
+    "answer": "Smut",
+    "info": "Smut is a fungal disease that infects wheat, replacing grains with dark spore masses."
+  },
+  {
+    "question": "What is the main objective of the Green Revolution?",
+    "options": ["Increase crop yield", "Reduce chemical use", "Promote organic farming", "Expand forest areas"],
+    "answer": "Increase crop yield",
+    "info": "The Green Revolution aimed to improve agricultural productivity through high-yield varieties and fertilizers."
+  },
+  {
+    "question": "Which soil horizon contains the maximum amount of organic matter?",
+    "options": ["O Horizon", "B Horizon", "C Horizon", "A Horizon"],
+    "answer": "O Horizon",
+    "info": "The O Horizon, or the topmost layer, is rich in decomposed organic material and humus."
+  },
+  {
+    "question": "What does the term 'vernalization' refer to?",
+    "options": ["Cold treatment to induce flowering", "Seed germination process", "Soil aeration", "Waterlogging prevention"],
+    "answer": "Cold treatment to induce flowering",
+    "info": "Vernalization is the exposure of seeds or plants to low temperatures to accelerate flowering."
+  },
+  {
+    "question": "Which element is essential for cell wall formation in plants?",
+    "options": ["Calcium", "Iron", "Zinc", "Magnesium"],
+    "answer": "Calcium",
+    "info": "Calcium stabilizes cell walls and membranes, promoting structural integrity in plants."
+  },
+  {
+    "question": "Which state in India leads in cotton production?",
+    "options": ["Gujarat", "Maharashtra", "Punjab", "Rajasthan"],
+    "answer": "Gujarat",
+    "info": "Gujarat is the top producer of cotton due to fertile soil and large-scale irrigation."
+  },
+  {
+    "question": "What is the main component of green manure?",
+    "options": ["Leguminous plants", "Non-leguminous weeds", "Dry compost", "Mulch"],
+    "answer": "Leguminous plants",
+    "info": "Green manure is produced by ploughing leguminous crops that enrich the soil with nitrogen."
+  },
+  {
+    "question": "In crop genetics, what does 'hybrid vigor' mean?",
+    "options": ["Increased yield due to hybridization", "Uniform plant size", "Resistance to all diseases", "Reduced fertility"],
+    "answer": "Increased yield due to hybridization",
+    "info": "Hybrid vigor, or heterosis, refers to improved growth and yield in hybrid offspring."
+  },
+  {
+    "question": "Which irrigation method is most water-efficient?",
+    "options": ["Drip irrigation", "Sprinkler irrigation", "Flood irrigation", "Basin irrigation"],
+    "answer": "Drip irrigation",
+    "info": "Drip irrigation delivers water directly to plant roots, minimizing evaporation losses."
+  },
+  {
+    "question": "Which mineral deficiency leads to the 'whiptail' disorder in cauliflower?",
+    "options": ["Molybdenum", "Iron", "Zinc", "Copper"],
+    "answer": "Molybdenum",
+    "info": "Molybdenum deficiency distorts cauliflower leaves, causing the ‘whiptail’ disorder."
+  },
+  {
+    "question": "Which process converts ammonia into nitrates in soil?",
+    "options": ["Nitrification", "Denitrification", "Ammonification", "Fixation"],
+    "answer": "Nitrification",
+    "info": "Nitrification converts ammonia into nitrites and then nitrates, making nitrogen available to plants."
+  },
+  {
+    "question": "Which variety of wheat was introduced during the Green Revolution in India?",
+    "options": ["Lerma Rojo", "IR-8", "Girnar", "Pusa Hybrid-1"],
+    "answer": "Lerma Rojo",
+    "info": "Lerma Rojo was one of the high-yield wheat varieties introduced to boost production."
+  },
+  {
+    "question": "What is the commonly used rootstock in mango grafting?",
+    "options": ["Desi Mango Seedling", "Neem Rootstock", "Citrus Rootstock", "Guava Seedling"],
+    "answer": "Desi Mango Seedling",
+    "info": "Native or desi mango seedlings are preferred rootstocks for grafted varieties due to their adaptability."
+  },
+  {
+    "question": "Which crop pest is scientifically known as *Helicoverpa armigera*?",
+    "options": ["Pod borer", "Fruit fly", "Aphid", "Stem borer"],
+    "answer": "Pod borer",
+    "info": "Helicoverpa armigera, a major pest, attacks cotton and pulse crops by boring into pods and fruits."
+  },
+  {
+    "question": "Which country ranks first in global milk production?",
+    "options": ["India", "USA", "China", "Brazil"],
+    "answer": "India",
+    "info": "India leads the world in milk production due to its vast dairy farming network."
+  },
+  {
+    "question": "What is the process by which soil becomes infertile due to continuous cropping?",
+    "options": ["Soil exhaustion", "Erosion", "Laterization", "Leaching"],
+    "answer": "Soil exhaustion",
+    "info": "Soil exhaustion occurs when nutrients are depleted by repeated cropping without replenishment."
+  },
+  {
+    "question": "Which enzyme helps convert starch into sugar during seed germination?",
+    "options": ["Amylase", "Lipase", "Protease", "Oxidase"],
+    "answer": "Amylase",
+    "info": "Amylase breaks down starch in the seed into sugars to provide energy for germination."
+  },
+  {
+    "question": "Which climatic condition favors rubber cultivation?",
+    "options": ["Hot and humid", "Cold and dry", "Temperate", "Arid"],
+    "answer": "Hot and humid",
+    "info": "Rubber grows best in hot, humid tropical conditions with consistent rainfall."
+  },
+  {
+    "question": "What is the purpose of mulching in agriculture?",
+    "options": ["Reduce evaporation", "Increase soil erosion", "Block sunlight", "Trap fertilizers"],
+    "answer": "Reduce evaporation",
+    "info": "Mulching conserves soil moisture by preventing evaporation and suppressing weed growth."
+  },
+  {
+    "question": "Which crop requires standing water for growth?",
+    "options": ["Rice", "Wheat", "Sugarcane", "Maize"],
+    "answer": "Rice",
+    "info": "Rice requires flooded conditions for part of its growth cycle, aiding weed control and nutrient availability."
+  },
+  {
+    "question": "Which Indian scientist is known as the Father of Green Revolution?",
+    "options": ["M. S. Swaminathan", "Verghese Kurien", "Norman Borlaug", "Jagadish Chandra Bose"],
+    "answer": "M. S. Swaminathan",
+    "info": "Dr. M. S. Swaminathan spearheaded the Green Revolution by introducing high-yield varieties in India."
+  },
+  {
+    "question": "Which organic acid is produced during anaerobic decomposition of organic matter in soil?",
+    "options": ["Lactic acid", "Humic acid", "Formic acid", "Acetic acid"],
+    "answer": "Acetic acid",
+    "info": "During anaerobic decomposition, acetic acid forms, lowering soil pH temporarily."
+  },
+  {
+    "question": "Which pest causes 'hopper burn' in paddy fields?",
+    "options": ["Brown planthopper", "Stem borer", "Leaf folder", "Gall midge"],
+    "answer": "Brown planthopper",
+    "info": "The brown planthopper sucks plant sap, causing the leaves to wither and dry, known as 'hopper burn'."
+  },
+  {
+    "question": "What is the main objective of precision farming?",
+    "options": ["Optimize resource use", "Maximize land area", "Increase labor input", "Simplify irrigation"],
+    "answer": "Optimize resource use",
+    "info": "Precision farming uses technology to optimize water, fertilizer, and pesticide use for higher efficiency."
+  },
+  {
+    "question": "Which type of biofertilizer contains blue-green algae?",
+    "options": ["Cyanobacterial biofertilizer", "Mycorrhizal biofertilizer", "Rhizobium inoculant", "Phosphate solubilizer"],
+    "answer": "Cyanobacterial biofertilizer",
+    "info": "Blue-green algae such as Anabaena fix atmospheric nitrogen, enriching soil fertility."
+  },
+  {
+    "question": "Which crop is affected by red rot disease?",
+    "options": ["Sugarcane", "Rice", "Wheat", "Maize"],
+    "answer": "Sugarcane",
+    "info": "Red rot, caused by the fungus *Colletotrichum falcatum*, severely damages sugarcane productivity."
+  },
+  {
+    "question": "Which cropping system involves growing two or more crops simultaneously on the same land?",
+    "options": ["Intercropping", "Monocropping", "Sequential cropping", "Relay cropping"],
+    "answer": "Intercropping",
+    "info": "Intercropping maximizes land use efficiency by cultivating complementary crops together."
+  },
+  {
+    "question": "Which element deficiency leads to the purple coloration of plant leaves?",
+    "options": ["Phosphorus", "Nitrogen", "Potassium", "Sulphur"],
+    "answer": "Phosphorus",
+    "info": "Phosphorus deficiency leads to dark green or purplish leaf coloration due to anthocyanin accumulation."
+  },
+  {
+    "question": "Which farming system integrates fish culture with paddy cultivation?",
+    "options": ["Paddy-cum-fish culture", "Aquaponics", "Agroforestry", "Polyculture"],
+    "answer": "Paddy-cum-fish culture",
+    "info": "Paddy-cum-fish culture allows fish to grow in flooded rice fields, providing dual income and natural pest control."
+  }
+]

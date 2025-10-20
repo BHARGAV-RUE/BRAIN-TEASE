@@ -1,0 +1,453 @@
+[
+    {
+        "question": "Which braking technique combines controlled steering and maximum braking efficiency without wheel lock in non-ABS vehicles?",
+        "options": [
+            "Threshold braking",
+            "Cadence braking",
+            "Engine braking",
+            "Trail braking"
+        ],
+        "answer": "Threshold braking",
+        "info": "Threshold braking applies brake pressure just below the skidding threshold, optimizing deceleration and control."
+    },
+    {
+        "question": "What is the theoretical minimum stopping distance formula for a vehicle assuming full traction and level ground?",
+        "options": [
+            "v^2 / (2μg)",
+            "v^2 / g",
+            "v / (2g)",
+            "μg / v"
+        ],
+        "answer": "v^2 / (2μg)",
+        "info": "The theoretical stopping distance of a vehicle on level ground is given by v² / (2μg), where v is velocity, μ is the friction coefficient between tires and road, and g is gravitational acceleration."
+    },
+    {
+        "question": "In traffic flow theory, what does the term 'jam density' represent?",
+        "options": [
+            "Maximum number of vehicles per kilometer when speed is zero",
+            "Average traffic speed",
+            "Traffic instability point",
+            "Optimum flow per lane"
+        ],
+        "answer": "Maximum number of vehicles per kilometer when speed is zero",
+        "info": "Jam density denotes the highest vehicle concentration in a lane before complete standstill occurs."
+    },
+    {
+        "question": "What is ‘reaction time’ considered in calculating safe following distance?",
+        "options": [
+            "Time taken by driver to respond after noticing a hazard",
+            "Time for brakes to engage fully",
+            "Engine delay after shifting gears",
+            "Sensor delay in ABS"
+        ],
+        "answer": "Time taken by driver to respond after noticing a hazard",
+        "info": "Reaction time (about 1 second) influences braking distance calculations for safe stopping."
+    },
+    {
+        "question": "Under autonomous vehicle laws, what does Level 4 automation signify?",
+        "options": [
+            "Full self-driving in limited conditions",
+            "Driver assists only",
+            "Fully manual operation",
+            "No automation"
+        ],
+        "answer": "Full self-driving in limited conditions",
+        "info": "Level 4 vehicles can operate autonomously without human input under specific conditions like mapped city zones."
+    },
+    {
+        "question": "In vehicle dynamics, what is understeer?",
+        "options": [
+            "Front tires lose grip before rear tires",
+            "Rear tires lose grip first",
+            "Vehicle drifts sideways equally",
+            "Loss of braking efficiency"
+        ],
+        "answer": "Front tires lose grip before rear tires",
+        "info": "Understeer occurs when the car turns less sharply than intended due to reduced traction on front tires."
+    },
+    {
+        "question": "Which algorithm is commonly used in modern traffic signal controllers for adaptive timing?",
+        "options": [
+            "SCOOT",
+            "FIFO",
+            "PID",
+            "SHA-256"
+        ],
+        "answer": "SCOOT",
+        "info": "SCOOT (Split Cycle Offset Optimization Technique) adapts real-time signal timing to optimize traffic flow."
+    },
+    {
+        "question": "Which advanced system uses LIDAR data to prevent collisions in autonomous driving?",
+        "options": [
+            "ADAS",
+            "FMS",
+            "ABS",
+            "EBD"
+        ],
+        "answer": "ADAS",
+        "info": "The Advanced Driver Assistance System (ADAS) uses LIDAR and sensors to detect hazards and prevent crashes."
+    },
+    {
+        "question": "What physical principle governs vehicle momentum during a collision?",
+        "options": [
+            "Conservation of momentum",
+            "Pascal’s law",
+            "Archimedes’ principle",
+            "Newton’s first law"
+        ],
+        "answer": "Conservation of momentum",
+        "info": "Momentum before and after a collision remains constant, affecting crash dynamics and safety design."
+    },
+    {
+        "question": "Why is road camber designed to slope outward in high-speed curves?",
+        "options": [
+            "Counteracts centrifugal force",
+            "Improves lane visibility",
+            "Improves drainage",
+            "Reduces noise"
+        ],
+        "answer": "Counteracts centrifugal force",
+        "info": "Camber inclines the road surface to balance centrifugal force on curves, enhancing vehicle stability."
+    },
+    {
+        "question": "What is the optimal longitudinal friction coefficient range for highway-grade asphalt in dry conditions?",
+        "options": [
+            "0.7–0.8",
+            "0.3–0.5",
+            "0.9–1.2",
+            "0.2–0.4"
+        ],
+        "answer": "0.7–0.8",
+        "info": "Dry asphalt provides high traction with a friction coefficient typically between 0.7 and 0.8."
+    },
+    {
+        "question": "In traffic signal phase design, what is an 'intergreen time'?",
+        "options": [
+            "Time between green light ending and next green starting",
+            "Pedestrian walk time",
+            "Amber light duration",
+            "Red light overlap"
+        ],
+        "answer": "Time between green light ending and next green starting",
+        "info": "Intergreen time prevents conflict by providing all-red clearance between traffic phases."
+    },
+    {
+        "question": "What is the principle behind Intelligent Transport Systems (ITS)?",
+        "options": [
+            "Integration of communication, control, and information technologies",
+            "Manual coordination of drivers",
+            "Mechanical enforcement only",
+            "Vehicle inspection automation"
+        ],
+        "answer": "Integration of communication, control, and information technologies",
+        "info": "ITS combines sensors, data, and connectivity to enhance road safety and traffic efficiency."
+    },
+    {
+        "question": "Which network protocol supports vehicle-to-infrastructure communication?",
+        "options": [
+            "DSRC",
+            "HTTP",
+            "SMTP",
+            "CAN bus"
+        ],
+        "answer": "DSRC",
+        "info": "Dedicated Short Range Communication (DSRC) allows vehicles to communicate with roadside units for safety alerts."
+    },
+    {
+        "question": "What is black ice and why is it dangerous?",
+        "options": [
+            "Invisible thin ice layer on roads reducing traction",
+            "Ice with high reflection",
+            "Ice that melts quickly",
+            "Dust-covered snow"
+        ],
+        "answer": "Invisible thin ice layer on roads reducing traction",
+        "info": "Black ice forms a transparent layer making roads slippery without visible warning."
+    },
+    {
+        "question": "In crash reconstruction, what does EDR stand for?",
+        "options": [
+            "Event Data Recorder",
+            "Emergency Display Register",
+            "Engine Diagnostic Register",
+            "Error Detection Relay"
+        ],
+        "answer": "Event Data Recorder",
+        "info": "EDR captures pre-crash metrics like speed, brake usage, and steering input for accident analysis."
+    },
+    {
+        "question": "Which rule defines the mathematical relationship between flow, speed, and density in traffic engineering?",
+        "options": [
+            "Fundamental diagram of traffic flow",
+            "Poisson distribution",
+            "Newton’s second law",
+            "Hooke’s law"
+        ],
+        "answer": "Fundamental diagram of traffic flow",
+        "info": "This diagram correlates flow rate, vehicle density, and average speed to model traffic conditions."
+    },
+    {
+        "question": "At what deceleration level do standard vehicle seatbelts activate their locking mechanism?",
+        "options": [
+            "0.7g",
+            "0.3g",
+            "1.0g",
+            "0.5g"
+        ],
+        "answer": "0.7g",
+        "info": "Most seatbelt pretensioners engage when deceleration exceeds approximately 0.7 times gravitational acceleration."
+    },
+    {
+        "question": "What is the purpose of rumble strips on highways?",
+        "options": [
+            "Alert inattentive drivers through vibration",
+            "Decorative markings",
+            "Reduce tire wear",
+            "Speed enforcement"
+        ],
+        "answer": "Alert inattentive drivers through vibration",
+        "info": "Rumble strips vibrate vehicle tires to alert drivers drifting off lanes."
+    },
+    {
+        "question": "How does regenerative braking help electric vehicles in traffic?",
+        "options": [
+            "Converts kinetic energy to electrical energy during braking",
+            "Stores hydraulic pressure",
+            "Reduces brake pad friction",
+            "Increases torque at low speeds"
+        ],
+        "answer": "Converts kinetic energy to electrical energy during braking",
+        "info": "Regenerative braking recovers kinetic energy and charges the battery during deceleration."
+    },
+    {
+        "question": "What safety feature prevents motorcycles from flipping during sudden acceleration?",
+        "options": [
+            "Anti-wheelie control",
+            "ABS",
+            "Hill-start assist",
+            "Engine braking"
+        ],
+        "answer": "Anti-wheelie control",
+        "info": "Anti-wheelie control limits torque output to prevent motorcycle front-wheel lift."
+    },
+    {
+        "question": "What phenomenon causes delayed braking response at high altitude passes?",
+        "options": [
+            "Reduced air density affecting brake cooling",
+            "Lower traction coefficient",
+            "Increased tire pressure",
+            "Engine backpressure drop"
+        ],
+        "answer": "Reduced air density affecting brake cooling",
+        "info": "Thin air reduces brake disc cooling efficiency at higher altitudes, delaying effective braking."
+    },
+    {
+        "question": "What is the threshold of human peripheral vision relevant to lane change awareness?",
+        "options": [
+            "Nearly 180° total field",
+            "90°",
+            "120°",
+            "60°"
+        ],
+        "answer": "Nearly 180° total field",
+        "info": "Human peripheral vision spans roughly 180°, aiding motion detection during lane changes."
+    },
+    {
+        "question": "In accident reconstruction, which equation relates skid mark length to vehicle speed?",
+        "options": [
+            "v = sqrt(2μgd)",
+            "v = (μgd)/2",
+            "v = (1/2)μg/d",
+            "v = μgd²"
+        ],
+        "answer": "v = sqrt(2μgd)",
+        "info": "Vehicle speed during an accident can be estimated using the formula v = √(2μgd), where v is velocity, μ is the friction coefficient, g is the acceleration due to gravity, and d is the skid mark length."
+    },
+    {
+        "question": "Why must hydrogen-fuel vehicles undergo special safety inspection for tunnels?",
+        "options": [
+            "Hydrogen’s explosive nature under confined pressure",
+            "Higher noise emission",
+            "Brake temperature control",
+            "Emission opacity test"
+        ],
+        "answer": "Hydrogen’s explosive nature under confined pressure",
+        "info": "Hydrogen tanks carry explosion risks in poorly ventilated tunnels, needing stricter checks."
+    },
+    {
+        "question": "What is the maximum visual reaction distance at 80 km/h under twilight for a pedestrian?",
+        "options": [
+            "Around 30 meters",
+            "10 meters",
+            "60 meters",
+            "100 meters"
+        ],
+        "answer": "Around 30 meters",
+        "info": "Human visibility of pedestrians declines sharply under twilight; effective hazard perception is ~30 meters at 80 km/h."
+    },
+    {
+        "question": "In advanced traffic modeling, what does the term 'shockwave' mean?",
+        "options": [
+            "Backward propagation of congestion",
+            "Front vehicle acceleration",
+            "Sudden lane change",
+            "Signal failure detection"
+        ],
+        "answer": "Backward propagation of congestion",
+        "info": "Traffic shockwaves move upstream whenever vehicle flow abruptly reduces downstream."
+    },
+    {
+        "question": "What is the average headway time used for automated cruise control calibration?",
+        "options": [
+            "1.5–2.0 seconds",
+            "0.5 seconds",
+            "3 seconds",
+            "5 seconds"
+        ],
+        "answer": "1.5–2.0 seconds",
+        "info": "Adaptive cruise control maintains 1.5–2 seconds headway to adjust speed dynamically for safety."
+    },
+    {
+        "question": "Which lane management technique uses reversible lanes to handle directional traffic surges?",
+        "options": [
+            "Contraflow lane system",
+            "Dedicated turning lanes",
+            "Express bypass",
+            "Truck-only corridor"
+        ],
+        "answer": "Contraflow lane system",
+        "info": "Contraflow systems reassign lane direction dynamically to match peak-hour demand."
+    },
+    {
+        "question": "What is the resilience function of a crash barrier’s containment level (H1, H2, H4)?",
+        "options": [
+            "Energy absorption capacity for vehicles by mass and speed",
+            "Material composition",
+            "Weather resistance grade",
+            "Design curvature"
+        ],
+        "answer": "Energy absorption capacity for vehicles by mass and speed",
+        "info": "Barriers are rated by the energy they can safely absorb during high-speed collisions."
+    },
+    {
+        "question": "Which autonomous braking system relies on radar data for pre-collision control?",
+        "options": [
+            "Forward Collision Warning (FCW)",
+            "Electronic Stability Control",
+            "Lane Keep Assist",
+            "Drive-by-wire"
+        ],
+        "answer": "Forward Collision Warning (FCW)",
+        "info": "FCW uses radar signals to compute distance and automatically apply brakes if collision is imminent."
+    },
+    {
+        "question": "In advanced driver systems, what does V2X connectivity stand for?",
+        "options": [
+            "Vehicle-to-everything communication",
+            "Variable transmission control",
+            "Visual tracking exchange",
+            "Vehicle-to-battery link"
+        ],
+        "answer": "Vehicle-to-everything communication",
+        "info": "V2X allows bidirectional data exchange between vehicles, pedestrians, and infrastructure."
+    },
+    {
+        "question": "What is the purpose of antilag system in high-performance turbocharged engines?",
+        "options": [
+            "Maintain boost pressure during gear shifts",
+            "Enhance fuel economy",
+            "Reduce downtime",
+            "Lower compression ratio"
+        ],
+        "answer": "Maintain boost pressure during gear shifts",
+        "info": "Antilag systems keep turbochargers spooling by injecting fuel during off-throttle phases."
+    },
+    {
+        "question": "What is the coefficient of dynamic friction typically assumed in wet asphalt braking calculations?",
+        "options": [
+            "0.45",
+            "0.7",
+            "0.25",
+            "0.9"
+        ],
+        "answer": "0.45",
+        "info": "Wet asphalt decreases traction significantly, reducing the friction coefficient to around 0.45."
+    },
+    {
+        "question": "What mechanism governs airbag deployment in milliseconds during impact?",
+        "options": [
+            "Accelerometer-triggered inflator circuit",
+            "Manual sensor control",
+            "Brake pedal pressure",
+            "Gyroscopic spin coil"
+        ],
+        "answer": "Accelerometer-triggered inflator circuit",
+        "info": "Airbags deploy within milliseconds using accelerometers that detect sudden deceleration."
+    },
+    {
+        "question": "What phenomenon explains tunnel vision during high-speed driving?",
+        "options": [
+            "Narrowing of visual field due to adrenaline and focus",
+            "Light reflection reduction",
+            "Lens distortion",
+            "Eye fatigue"
+        ],
+        "answer": "Narrowing of visual field due to adrenaline and focus",
+        "info": "At higher speeds, a driver's visual field narrows, reducing peripheral awareness."
+    },
+    {
+        "question": "What optimal tire slip ratio range provides maximum traction in braking conditions?",
+        "options": [
+            "10–20%",
+            "0–5%",
+            "30–40%",
+            "50–60%"
+        ],
+        "answer": "10–20%",
+        "info": "In most surfaces, peak braking efficiency occurs at 10–20% wheel slip before lock-up."
+    },
+    {
+        "question": "According to the Indian Roads Congress IRC:99 guidelines, how many seconds constitute the standard perception-reaction time?",
+        "options": [
+            "2.5 seconds",
+            "1 second",
+            "3.5 seconds",
+            "4 seconds"
+        ],
+        "answer": "2.5 seconds",
+        "info": "IRC recommends 2.5 seconds as the design reaction time, accounting for driver perception and action delay."
+    },
+    {
+        "question": "Which simulation model is most used for urban mixed traffic with heterogeneous flows?",
+        "options": [
+            "VISSIM",
+            "AIMSUN",
+            "Ludwig model",
+            "Macroscopic car-following model"
+        ],
+        "answer": "VISSIM",
+        "info": "VISSIM microsimulation models complex traffic with varying speeds and vehicle behaviors in urban areas."
+    },
+    {
+        "question": "In traffic management, what is the 'Green Wave' principle?",
+        "options": [
+            "Synchronization of consecutive signals for continuous flow",
+            "Priority to emergency vehicles",
+            "Pedestrian phase override",
+            "Bus-lane preemption"
+        ],
+        "answer": "Synchronization of consecutive signals for continuous flow",
+        "info": "Green Wave timing coordinates signals to enable vehicles to pass multiple intersections without stopping."
+    },
+    {
+        "question": "Which geometric design parameter directly affects sight distance on hill roads?",
+        "options": [
+            "Vertical curve radius",
+            "Camber ratio",
+            "Super elevation",
+            "Lane width"
+        ],
+        "answer": "Vertical curve radius",
+        "info": "A larger vertical curve radius ensures adequate line of sight on gradients and crests for safety."
+    }
+]
